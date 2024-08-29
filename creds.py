@@ -1,0 +1,17 @@
+
+AUTH_KEY='10eG-prOk7IgNuYcjnbLOSjG9WalBavWlr2KmoPqHuxQ'
+SHEET_NAME='Sheet1'
+TABLE_NAME='ecommerce'
+SCHEMA_SQL="""
+CREATE TABLE IF NOT EXISTS ecommerce(
+    transaction_id VARCHAR PRIMARY KEY,
+    customer_id VARCHAR DEFAULT NULL,
+    product_id VARCHAR DEFAULT NULL,
+    date DATE DEFAULT NULL,
+    quantity DOUBLE PRECISION DEFAULT NULL,
+    price DOUBLE PRECISION DEFAULT NULL,
+    category VARCHAR DEFAULT NULL,
+    payment_method VARCHAR DEFAULT NULL,
+    region VARCHAR DEFAULT NULL
+);
+"""
