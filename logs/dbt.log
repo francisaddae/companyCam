@@ -1,0 +1,29 @@
+[0m22:03:37.137861 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f8a8a4df460>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f8a8fc52c70>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f8a8fc527f0>]}
+
+
+============================== 22:03:37.144330 | 50e7ea14-1246-4072-9a59-f9feee1c7e62 ==============================
+[0m22:03:37.144330 [info ] [MainThread]: Running with dbt=1.8.0
+[0m22:03:37.145277 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': '/Users/Francis/.dbt', 'fail_fast': 'False', 'version_check': 'True', 'log_path': 'logs', 'debug': 'False', 'warn_error': 'None', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'introspect': 'True', 'invocation_command': 'dbt init', 'static_parser': 'True', 'target_path': 'None', 'log_format': 'default', 'send_anonymous_usage_stats': 'True'}
+[0m22:03:43.401124 [debug] [MainThread]: Starter project path: /opt/anaconda3/lib/python3.9/site-packages/dbt/include/starter_project
+[0m22:03:43.412379 [info ] [MainThread]: 
+Your new dbt project "transform" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m22:03:43.413353 [info ] [MainThread]: Setting up your profile.
+[0m22:03:46.248940 [info ] [MainThread]: No sample profile found for clickhouse.
+[0m22:03:46.259797 [debug] [MainThread]: Resource report: {"command_name": "init", "command_success": true, "command_wall_clock_time": 9.225031, "process_user_time": 1.555926, "process_kernel_time": 0.404371, "process_mem_max_rss": "87519232", "process_in_blocks": "0", "process_out_blocks": "0"}
+[0m22:03:46.260862 [debug] [MainThread]: Command `dbt init` succeeded at 22:03:46.260706 after 9.23 seconds
+[0m22:03:46.261552 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f8a8a4df460>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f8a8fca04f0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f8a8fc24100>]}
+[0m22:03:46.262229 [debug] [MainThread]: Flushing usage events

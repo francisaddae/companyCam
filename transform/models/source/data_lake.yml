@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: data_lake
+    schema: default
+    database: default
+    description: Data Lake databse containing all the raw unformatted data sources
+    tables:
+      - name: ecommerce
+        description: Raw ecommerce data gathered from external Google Sheets
+
+
