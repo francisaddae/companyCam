@@ -76,3 +76,30 @@ def load_data_into_warehouse(data:pd.DataFrame, table_name:str) -> bool:
         engine.dispose()
 
 
+@task(name="download_dbt_model")
+def get_dbt_model_data( query, file_name):
+    """Downlaods a dbt model from data warehouse and names the file.
+
+    Args:
+        type (str): Warehouse Name, default='Postgres'
+        query (str): SQL Query
+        file_name (str): Name of the file
+    """
+    logger = get_run_logger()
+    try:
+        #instantiate db connection
+        engine = sqlalchemy.create_engine(
+            f"clickhouse+http://{os.environ.get('CLICKHOUSE_USER')}:{os.environ.get('CLICKHOUSE_CRED')}@{os.environ.get('CLICKHOUSE_HOST')}:{int(os.environ.get('CLICKHOUSE_NATIVE_PORT'))}/{os.environ.get('CLICKHOUSE_DATABASE')}?protocol=https")
+        logger.info("***** ENGINE CONNECTED SUCCESSFULLY ******")
+
+    except OperationalError as sql_error:
+        raise(f"Cannot connect to DB: {sql_error}")
+
+    try:
+        result = pd.read_sql(sql=query, con=engine)
+        logger.info(result.head())
+        result.to_csv(f'{file_name}.csv', index=False, header=True)
+    except Exception as e:
+        logger.info('DBT or Connection Error Message: %s' %e)
+    finally:
+        engine.dispose()
