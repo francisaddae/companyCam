@@ -8,6 +8,7 @@ WITH clean_data AS(
         COALESCE(quantity, 0) AS quantity,
         COALESCE(price, 0.00) AS price,
         COALESCE(category, 'Unknown') AS category,
+        COALESCE(payment_method, 'Unknown') AS payment_method,
         COALESCE(region, 'Unknown') AS region
     FROM {{ source('data_lake', 'ecommerce')}}
 )
