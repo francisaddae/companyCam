@@ -34,6 +34,7 @@ models:
     grooming:
       +materialized: table
       +schema: grm
+      +tags: grm
       +full_refresh: true
     staging:
       +materialized: table
