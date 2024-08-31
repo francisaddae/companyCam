@@ -1,0 +1,1002 @@
+transaction_id,customer_id,product_id,date,quantity,price,category,payment_method,region
+TX1000,C181,P1022,2023-11-21,2.0,320.42,Toys,Credit Card,North America
+TX1001,C114,P1038,2023-10-07,1.0,200.2,Electronics,PayPal,Europe
+TX1002,C103,P1001,2024-05-25,1.0,297.99,Home & Kitchen,Gift Card,South America
+TX1003,C194,P1090,2024-02-10,4.0,35.83,Home & Kitchen,PayPal,Asia
+TX1004,C135,P1068,2024-02-06,5.0,332.91,Toys,PayPal,South America
+TX1005,C131,P1016,2024-03-23,1.0,69.7,Electronics,PayPal,Asia
+TX1006,C128,P1035,2024-01-29,2.0,149.38,Home & Kitchen,PayPal,North America
+TX1007,C117,P1005,2024-01-18,2.0,426.2,Books,Gift Card,Australia
+TX1008,C194,P1006,2024-02-23,1.0,463.39,Books,Credit Card,Australia
+TX1009,C113,P1070,2023-09-02,1.0,199.51,Books,Debit Card,Europe
+TX1010,C186,P1037,2023-10-13,5.0,416.79,Electronics,Gift Card,Asia
+TX1011,C194,P1089,2024-07-19,1.0,166.49,Books,Gift Card,Europe
+TX1012,C169,P1016,2023-09-26,4.0,229.12,Clothing,Credit Card,North America
+TX1013,C111,P1081,2023-09-18,5.0,120.64,Toys,PayPal,Australia
+TX1014,C175,P1096,2024-02-25,1.0,472.06,Clothing,PayPal,Europe
+TX1015,C154,P1062,2024-07-12,2.0,72.38,Clothing,Gift Card,Asia
+TX1016,C104,P1013,2024-02-28,1.0,386.22,Books,Debit Card,North America
+TX1017,C103,P1001,2024-06-27,4.0,58.94,Toys,PayPal,North America
+TX1018,C111,P1073,2023-11-03,4.0,57.3,Home & Kitchen,Gift Card,Asia
+TX1019,C127,P1036,2023-09-02,2.0,227.54,Clothing,Debit Card,Europe
+TX1020,C129,P1060,2024-01-30,5.0,160.45,Home & Kitchen,Debit Card,South America
+TX1021,C164,P1061,2024-03-22,2.0,64.76,Home & Kitchen,Debit Card,Europe
+TX1022,C177,P1056,2024-04-07,1.0,182.35,Electronics,Debit Card,Asia
+TX1023,C103,P1043,2023-09-13,2.0,386.32,Toys,Gift Card,Australia
+TX1024,C171,P1023,2023-10-11,5.0,228.7,Toys,Gift Card,Europe
+TX1025,C125,P1006,2024-05-30,3.0,234.36,Clothing,Debit Card,South America
+TX1026,C191,P1032,2024-02-26,2.0,426.98,Electronics,PayPal,Europe
+TX1027,C183,P1061,2024-07-04,5.0,49.76,Electronics,PayPal,Australia
+TX1028,C189,P1014,2023-10-21,3.0,404.76,Electronics,Gift Card,North America
+TX1029,C169,P1008,2023-09-10,5.0,155.59,Toys,Debit Card,Europe
+TX1030,C153,P1051,2024-06-03,5.0,353.83,Toys,Debit Card,North America
+TX1031,C128,P1062,2024-02-17,3.0,303.63,Books,Gift Card,Australia
+TX1032,C157,P1009,2024-03-09,2.0,111.44,Toys,Gift Card,South America
+TX1033,C175,P1073,2023-09-14,3.0,429.0,Toys,Gift Card,Europe
+TX1034,C135,P1080,2023-08-23,2.0,78.42,Electronics,Credit Card,North America
+TX1035,C100,P1087,2023-09-10,5.0,357.02,Home & Kitchen,Credit Card,South America
+TX1036,C197,P1006,2024-01-27,2.0,484.36,Clothing,Debit Card,North America
+TX1037,C120,P1019,2024-06-09,4.0,0.0,Home & Kitchen,Credit Card,North America
+TX1038,C189,P1019,2023-10-15,3.0,29.23,Clothing,PayPal,North America
+TX1039,C154,P1072,2023-08-18,3.0,152.93,Books,Debit Card,Europe
+TX1040,C143,P1038,2024-07-02,1.0,410.94,Toys,Credit Card,North America
+TX1041,C135,P1010,2024-03-09,5.0,91.06,Clothing,Debit Card,Australia
+TX1042,C119,P1031,2023-11-02,5.0,476.29,Clothing,PayPal,Asia
+TX1043,C127,P1015,2024-02-04,2.0,428.03,Clothing,PayPal,South America
+TX1044,C197,P1071,2023-09-20,4.0,280.2,Clothing,Debit Card,South America
+TX1045,C143,P1097,2024-02-28,5.0,277.31,Toys,Credit Card,Europe
+TX1046,C113,P1053,2024-06-10,4.0,51.89,Home & Kitchen,Debit Card,Europe
+TX1047,C111,P1077,2023-09-06,1.0,55.44,Clothing,PayPal,Europe
+TX1048,C148,P1076,2023-08-21,3.0,397.94,Electronics,Credit Card,Asia
+TX1049,C112,P1079,2023-08-30,4.0,65.12,Clothing,Credit Card,Australia
+TX1050,C145,P1028,2023-11-19,5.0,35.53,Toys,Gift Card,South America
+TX1051,C144,P1099,2024-06-28,3.0,391.58,Electronics,Debit Card,South America
+TX1052,C177,P1066,2023-09-19,4.0,115.03,Toys,PayPal,Europe
+TX1053,C133,P1048,2023-09-06,4.0,103.08,Books,PayPal,Europe
+TX1054,C105,P1057,2024-01-11,2.0,203.29,Toys,Debit Card,Australia
+TX1055,C193,P1056,2023-11-28,3.0,344.71,Electronics,Debit Card,North America
+TX1056,C158,P1038,2024-02-11,4.0,469.1,Home & Kitchen,PayPal,Australia
+TX1057,C168,P1075,2024-08-05,2.0,46.6,Electronics,PayPal,Europe
+TX1058,C115,P1054,2024-02-11,5.0,295.13,Home & Kitchen,Debit Card,South America
+TX1059,C148,P1039,2024-03-09,4.0,459.13,Electronics,Debit Card,Australia
+TX1060,C110,P1072,2024-05-14,2.0,42.12,Clothing,Credit Card,North America
+TX1061,C170,P1079,2024-04-27,2.0,498.59,Toys,Gift Card,Asia
+TX1062,C137,P1007,2024-02-22,3.0,102.89,Books,PayPal,Asia
+TX1063,C180,P1078,2023-12-10,2.0,324.76,Home & Kitchen,Credit Card,South America
+TX1064,C179,P1094,2024-05-08,4.0,405.6,Home & Kitchen,Debit Card,North America
+TX1065,C146,P1012,2024-04-21,1.0,50.53,Clothing,Gift Card,Australia
+TX1066,C173,P1097,2024-06-05,5.0,424.4,Clothing,PayPal,Europe
+TX1067,C124,P1026,2024-05-27,4.0,405.4,Electronics,Gift Card,Europe
+TX1068,C190,P1080,2024-07-06,4.0,65.65,Home & Kitchen,Credit Card,North America
+TX1069,C108,P1027,2024-03-16,5.0,471.43,Toys,Debit Card,Australia
+TX1070,C105,P1033,2024-06-24,5.0,30.07,Electronics,Credit Card,North America
+TX1071,C184,P1084,2023-11-29,2.0,462.45,Clothing,Gift Card,Australia
+TX1072,C129,P1010,2023-11-12,4.0,219.41,Home & Kitchen,Credit Card,Asia
+TX1073,C198,P1020,2023-11-19,2.0,363.59,Books,Credit Card,Australia
+TX1074,C137,P1030,2024-07-26,3.0,250.58,Books,Debit Card,Australia
+TX1075,C110,P1022,2023-09-11,2.0,194.45,Home & Kitchen,Debit Card,Europe
+TX1076,C129,P1070,2024-02-24,3.0,216.2,Toys,Gift Card,South America
+TX1077,C112,P1009,2023-10-03,1.0,180.2,Home & Kitchen,Gift Card,Europe
+TX1078,C148,P1020,2024-06-08,4.0,454.61,Toys,Credit Card,Asia
+TX1079,C135,P1000,2023-10-14,3.0,141.12,Clothing,PayPal,North America
+TX1080,C158,P1052,2024-02-04,1.0,225.78,Toys,Credit Card,Europe
+TX1081,C181,P1057,2024-05-28,5.0,78.57,Toys,Gift Card,North America
+TX1082,C146,P1088,2024-05-23,2.0,308.98,Home & Kitchen,Credit Card,Europe
+TX1083,C120,P1076,2024-05-14,1.0,310.4,Home & Kitchen,Debit Card,South America
+TX1084,C147,P1060,2023-08-26,3.0,325.4,Books,Credit Card,South America
+TX1085,C145,P1037,2023-09-30,4.0,251.95,Clothing,Debit Card,Europe
+TX1086,C126,P1004,2024-05-22,5.0,441.98,Electronics,PayPal,Europe
+TX1087,C185,P1029,2024-01-03,5.0,242.12,Home & Kitchen,Debit Card,North America
+TX1088,C134,P1036,2024-07-23,1.0,48.42,Clothing,PayPal,North America
+TX1089,C189,P1090,2024-01-17,1.0,194.59,Clothing,PayPal,Asia
+TX1090,C187,P1036,2024-02-10,2.0,212.52,Books,Credit Card,Asia
+TX1091,C182,P1089,2023-09-03,5.0,323.11,Home & Kitchen,Gift Card,Europe
+TX1092,C109,P1058,2024-04-15,5.0,399.61,Home & Kitchen,Gift Card,South America
+TX1093,C177,P1009,2023-12-31,2.0,128.33,Clothing,Credit Card,Asia
+TX1094,C181,P1087,2023-10-07,4.0,497.07,Home & Kitchen,PayPal,Asia
+TX1095,C121,P1029,2024-03-22,2.0,274.11,Books,Gift Card,Australia
+TX1096,C168,P1033,2023-12-29,3.0,14.67,Books,Debit Card,South America
+TX1097,C193,P1080,2024-04-17,3.0,194.34,Books,Gift Card,North America
+TX1098,C131,P1075,2023-11-15,1.0,358.12,Home & Kitchen,PayPal,North America
+TX1099,C120,P1084,2024-04-14,2.0,242.44,Home & Kitchen,PayPal,North America
+TX1100,C159,P1025,2024-03-09,2.0,391.81,Books,Debit Card,Australia
+TX1101,C148,P1054,2023-12-18,1.0,175.3,Toys,Credit Card,Europe
+TX1102,C134,P1014,2024-05-07,4.0,285.0,Electronics,Gift Card,Europe
+TX1103,C181,P1069,2024-02-08,2.0,164.19,Clothing,Credit Card,North America
+TX1104,C188,P1028,2023-09-02,5.0,138.87,Toys,Gift Card,South America
+TX1105,C171,P1082,2023-10-27,2.0,17.9,Electronics,Debit Card,Australia
+TX1106,C128,P1019,2024-01-02,4.0,300.57,Home & Kitchen,Credit Card,North America
+TX1107,C187,P1034,2023-12-22,2.0,19.51,Clothing,Gift Card,North America
+TX1108,C141,P1018,2024-03-23,5.0,406.29,Toys,Gift Card,Europe
+TX1109,C198,P9999,2024-02-01,3.0,144.06,Clothing,PayPal,South America
+TX1110,C199,P1007,2023-12-01,3.0,405.28,Home & Kitchen,PayPal,Australia
+TX1111,C107,P1021,2023-11-18,4.0,238.48,Electronics,Gift Card,Australia
+TX1112,C129,P1039,2024-01-13,4.0,181.93,Electronics,PayPal,Asia
+TX1113,C104,P1076,2024-05-24,5.0,294.07,Electronics,Gift Card,South America
+TX1114,C140,P1095,2024-05-04,3.0,120.22,Toys,Gift Card,Europe
+TX1115,C151,P1072,2023-10-10,3.0,0.0,Electronics,PayPal,Asia
+TX1116,C134,P1036,2024-06-05,3.0,127.69,Toys,PayPal,Europe
+TX1117,C108,P1056,2024-04-08,3.0,124.37,Toys,PayPal,North America
+TX1118,C127,P1015,2024-07-19,5.0,269.18,Books,Credit Card,Asia
+TX1119,C172,P1059,2023-09-21,4.0,396.66,Toys,Debit Card,Europe
+TX1120,C191,P1088,2023-12-12,4.0,369.84,Clothing,Gift Card,North America
+TX1121,C140,P1038,2024-02-06,1.0,383.2,Electronics,Debit Card,Europe
+TX1122,C127,P1089,2023-11-05,4.0,474.16,Toys,Credit Card,South America
+TX1123,C183,P1051,2024-06-23,3.0,289.97,Home & Kitchen,Credit Card,Europe
+TX1124,C163,P1034,2023-08-16,2.0,491.42,Toys,Gift Card,South America
+TX1125,C150,P1064,2023-11-24,3.0,197.27,Toys,Gift Card,Europe
+TX1126,C182,P1069,2024-06-12,3.0,467.93,Books,Debit Card,North America
+TX1127,C158,P1063,2024-03-22,4.0,495.81,Clothing,Debit Card,South America
+TX1128,C118,P1056,2024-07-03,1.0,90.99,Home & Kitchen,PayPal,Australia
+TX1129,C133,P1010,2024-05-24,5.0,122.09,Books,Debit Card,South America
+TX1130,C117,P1076,2024-03-28,2.0,162.41,Clothing,Debit Card,North America
+TX1131,C131,P1005,2023-12-28,2.0,370.36,Toys,Credit Card,South America
+TX1132,C195,P1055,2023-11-26,1.0,182.6,Home & Kitchen,Debit Card,Europe
+TX1133,C171,P1094,2024-05-31,3.0,297.82,Clothing,PayPal,Europe
+TX1134,C168,P1041,2024-01-04,5.0,353.21,Books,Debit Card,Australia
+TX1135,C133,P1077,2024-06-29,5.0,179.08,Toys,Gift Card,South America
+TX1136,C195,P1032,2024-04-23,5.0,285.99,Toys,PayPal,Europe
+TX1137,C174,P1003,2023-12-28,4.0,-75.34,Electronics,Gift Card,South America
+TX1138,C154,P1011,2024-02-18,3.0,474.44,Books,Credit Card,Asia
+TX1139,C174,P1029,2024-08-01,2.0,419.16,Home & Kitchen,PayPal,Europe
+TX1140,C151,P1086,2024-01-15,2.0,406.15,Toys,PayPal,South America
+TX1141,C146,P1073,2024-07-18,3.0,485.34,Electronics,Debit Card,Europe
+TX1142,C128,P1075,2024-01-25,2.0,273.35,Clothing,PayPal,Asia
+TX1143,C117,P1002,2023-12-01,4.0,91.9,Toys,Credit Card,Asia
+TX1144,C165,P1097,2024-02-05,5.0,23.79,Clothing,Credit Card,Europe
+TX1145,C163,P1086,2024-04-16,2.0,32.8,Toys,Credit Card,Asia
+TX1146,C111,P1034,2024-01-30,4.0,302.82,Clothing,PayPal,Europe
+TX1147,C196,P1073,2024-07-04,5.0,14.86,Books,PayPal,North America
+TX1148,C106,P1005,2034-08-31,3.0,241.6,Clothing,Debit Card,Australia
+TX1149,C114,P1097,2024-04-22,3.0,169.21,Clothing,Credit Card,North America
+TX1150,C119,P1096,2024-07-31,4.0,309.0,Toys,Debit Card,Asia
+TX1151,C180,P1022,2024-03-04,4.0,404.19,Toys,Credit Card,Europe
+TX1152,C120,P1060,2024-06-25,4.0,173.68,Clothing,Debit Card,North America
+TX1153,C187,P1066,2023-09-17,2.0,92.84,Books,Gift Card,South America
+TX1154,C154,P1083,2024-02-25,3.0,402.2,Home & Kitchen,Gift Card,South America
+TX1155,C176,P1056,2024-06-01,2.0,434.77,Electronics,Credit Card,South America
+TX1156,C108,P1035,2024-06-05,2.0,34.48,Clothing,Debit Card,Europe
+TX1157,C149,P1023,2024-07-26,5.0,78.12,Books,PayPal,Asia
+TX1158,C148,P1074,2024-03-21,4.0,353.82,Clothing,PayPal,Europe
+TX1159,C176,P1055,2023-12-17,2.0,75.12,Electronics,PayPal,Asia
+TX1160,C159,P1081,2023-08-24,5.0,59.91,Home & Kitchen,Debit Card,Australia
+TX1161,C167,P1062,2024-06-04,1.0,265.52,Home & Kitchen,Gift Card,Europe
+TX1162,C132,P1011,2023-08-19,5.0,185.62,Clothing,PayPal,Australia
+TX1163,C170,P1060,2023-12-18,1.0,40.9,Electronics,Credit Card,Europe
+TX1164,C101,P1044,2023-12-29,1.0,353.75,Clothing,Gift Card,Australia
+TX1165,C187,P1052,2023-10-04,1.0,332.76,Toys,Credit Card,Australia
+TX1166,C192,P1042,2024-08-12,1.0,295.08,Home & Kitchen,Debit Card,Europe
+TX1167,C114,P1041,2024-07-05,4.0,171.6,Books,PayPal,North America
+TX1168,C187,P1085,2024-08-05,2.0,164.69,Books,Credit Card,South America
+TX1169,C168,P1013,2024-04-05,2.0,488.05,Books,Debit Card,Australia
+TX1170,C196,P1020,2024-04-26,1.0,367.51,Electronics,PayPal,South America
+TX1171,C134,P1042,2024-05-30,2.0,221.25,Electronics,Debit Card,Europe
+TX1172,C198,P1052,2023-11-08,1.0,321.44,Home & Kitchen,Credit Card,Australia
+TX1173,C182,P1088,2023-10-08,2.0,246.16,Electronics,Gift Card,South America
+TX1174,C143,P1063,2023-11-18,5.0,162.06,Toys,Credit Card,South America
+TX1175,C114,P1036,2024-01-11,4.0,355.06,Home & Kitchen,Credit Card,Asia
+TX1176,C137,P1084,2024-06-19,3.0,283.18,Home & Kitchen,Gift Card,North America
+TX1177,C155,P1051,2024-03-20,1.0,445.35,Toys,Debit Card,South America
+TX1178,C120,P1097,2024-04-15,5.0,308.79,Toys,Debit Card,Europe
+TX1179,C158,P1070,2024-03-13,5.0,181.63,Toys,Credit Card,Europe
+TX1180,C100,P1004,2024-06-13,4.0,334.44,Clothing,Credit Card,Asia
+TX1181,C192,P1058,2024-07-21,4.0,408.15,Books,Debit Card,South America
+TX1182,C192,P1011,2024-04-14,1.0,192.3,Books,Gift Card,Australia
+TX1183,C133,P1040,2024-01-13,1.0,368.33,Home & Kitchen,PayPal,Europe
+TX1184,C164,P1032,2023-09-22,5.0,150.79,Toys,Gift Card,Australia
+TX1185,C197,P1041,2023-10-01,5.0,92.97,Electronics,Credit Card,Europe
+TX1186,C122,P1014,2023-12-24,4.0,5.89,Toys,Debit Card,Australia
+TX1187,C164,P1098,2024-07-13,1.0,352.49,Home & Kitchen,Gift Card,North America
+TX1188,C113,P1051,2024-06-19,1.0,288.55,Books,Credit Card,South America
+TX1189,C180,P1065,2023-12-03,5.0,426.12,Clothing,PayPal,North America
+TX1190,C138,P1000,2023-10-14,3.0,386.56,Toys,PayPal,North America
+TX1191,C181,P1084,2023-11-14,5.0,285.9,Books,Gift Card,South America
+TX1192,C164,P1069,2024-08-06,3.0,95.13,Home & Kitchen,Credit Card,Australia
+TX1193,C177,P1059,2023-09-26,1.0,162.52,Home & Kitchen,Credit Card,North America
+TX1194,C125,P1052,2023-11-25,5.0,405.36,Books,PayPal,South America
+TX1195,C119,P1006,2023-10-25,4.0,307.63,Books,Debit Card,Australia
+TX1196,C147,P1024,2024-04-13,2.0,321.63,Toys,Debit Card,South America
+TX1197,C197,P1066,2024-06-02,1.0,56.53,Electronics,Gift Card,South America
+TX1198,C120,P1046,2024-03-18,1.0,250.61,Toys,Gift Card,North America
+TX1199,C169,P1079,2024-01-08,5.0,168.93,Clothing,PayPal,South America
+TX1200,C199,P1096,2024-08-14,2.0,43.51,Books,Credit Card,South America
+TX1201,C167,P1063,2023-10-05,2.0,176.67,Clothing,Debit Card,Europe
+TX1202,C100,P1080,2024-02-16,2.0,163.16,Clothing,Debit Card,North America
+TX1203,C176,P1056,2024-04-13,5.0,319.91,Electronics,Debit Card,Australia
+TX1204,C141,P1097,2023-10-27,5.0,481.72,Toys,Debit Card,North America
+TX1205,C162,P1006,2024-01-14,3.0,411.72,Home & Kitchen,PayPal,South America
+TX1206,C102,P1026,2024-05-11,3.0,336.66,Clothing,Debit Card,Europe
+TX1207,C114,P1034,2023-09-09,3.0,366.0,Clothing,Credit Card,Europe
+TX1208,C146,P1070,2023-09-07,4.0,171.2,Clothing,Debit Card,Asia
+TX1209,C139,P1016,2024-07-02,1.0,10.64,Clothing,Gift Card,Asia
+TX1210,C130,P1036,2023-11-20,3.0,108.79,Home & Kitchen,Credit Card,Europe
+TX1211,C107,P1056,2024-02-12,4.0,348.12,Toys,Debit Card,North America
+TX1212,C130,P1089,2024-07-11,4.0,178.49,Electronics,PayPal,North America
+TX1213,C172,P1062,2023-11-19,5.0,394.57,Clothing,PayPal,South America
+TX1214,C110,P1015,2023-11-10,2.0,361.6,Books,Debit Card,Asia
+TX1215,C110,P1003,2023-11-29,2.0,28.83,Home & Kitchen,Gift Card,Europe
+TX1216,C193,P1080,2023-11-29,3.0,221.92,Electronics,PayPal,South America
+TX1217,C162,P1077,2023-11-05,1.0,212.73,Books,Credit Card,Australia
+TX1218,C108,P1030,2024-08-04,1.0,87.34,Books,Gift Card,Australia
+TX1219,C197,P1090,2024-01-28,0.0,209.94,Books,PayPal,North America
+TX1220,C168,P1020,2023-12-18,4.0,441.48,Clothing,Gift Card,South America
+TX1221,C198,P1039,2024-07-23,4.0,178.86,Toys,PayPal,South America
+TX1222,C116,P1070,2023-09-24,4.0,190.8,Clothing,PayPal,Europe
+TX1223,C116,P9999,2024-01-29,5.0,415.26,Books,Gift Card,South America
+TX1224,C184,P1070,2024-02-05,4.0,395.42,Electronics,Debit Card,Europe
+TX1225,C160,P1052,2024-04-07,1.0,291.14,Clothing,Debit Card,Asia
+TX1226,C170,P1011,2024-08-06,1.0,380.33,Electronics,Gift Card,South America
+TX1227,C121,P1028,2024-02-14,2.0,116.66,Clothing,PayPal,North America
+TX1228,C133,P1014,2024-07-11,1.0,228.39,Toys,PayPal,North America
+TX1229,C167,P1059,2024-02-20,4.0,400.6,Toys,PayPal,South America
+TX1230,C177,P1015,2024-04-13,4.0,21.54,Clothing,PayPal,Asia
+TX1231,C154,P1082,2023-09-13,3.0,14.94,Clothing,PayPal,Australia
+TX1232,C127,P1019,2023-09-28,5.0,134.26,Toys,Debit Card,North America
+TX1233,C169,P1063,2024-06-22,1.0,56.84,Electronics,PayPal,Asia
+TX1234,C196,P1091,2023-10-22,5.0,174.2,Toys,Gift Card,South America
+TX1235,C193,P1037,2024-02-26,1.0,444.53,Clothing,PayPal,Asia
+TX1236,C188,P1065,2024-06-07,2.0,84.65,Electronics,PayPal,Australia
+TX1237,C125,P1090,2024-07-23,2.0,42.13,Clothing,Debit Card,Australia
+TX1238,C191,P1034,2024-02-16,5.0,471.21,Home & Kitchen,Credit Card,Australia
+TX1239,C139,P1053,2023-11-09,4.0,489.13,Clothing,Credit Card,Europe
+TX1240,C151,P1061,2024-02-23,3.0,172.29,Toys,PayPal,North America
+TX1241,C999,P1060,2023-09-20,1.0,492.71,Books,Debit Card,Australia
+TX1242,C183,P1031,2024-05-17,1.0,447.15,Toys,PayPal,Asia
+TX1243,C999,P1058,2023-08-30,3.0,353.73,Toys,Credit Card,North America
+TX1244,C156,P1070,2023-12-21,5.0,218.51,Electronics,Debit Card,Australia
+TX1245,C166,P1018,2023-08-24,5.0,328.55,Home & Kitchen,Gift Card,Asia
+TX1246,C157,P1049,2023-12-13,1.0,305.62,Electronics,Gift Card,North America
+TX1247,C115,P1024,2023-09-26,2.0,219.93,Clothing,Debit Card,North America
+TX1248,C131,P1076,2024-05-13,3.0,31.51,Books,Gift Card,South America
+TX1249,C128,P1065,2024-06-06,1.0,168.89,Toys,Debit Card,Asia
+TX1250,C108,P1095,2024-07-13,2.0,487.33,Books,PayPal,South America
+TX1251,C143,P1017,2023-12-24,5.0,207.59,Books,PayPal,Australia
+TX1252,C102,P1008,2024-07-27,2.0,0.0,Clothing,Credit Card,North America
+TX1253,C175,P1035,2024-03-17,4.0,463.16,Clothing,PayPal,Asia
+TX1254,C170,P1098,2024-05-03,1.0,272.36,Books,PayPal,Asia
+TX1255,C129,P1053,2024-07-23,3.0,332.0,Toys,Credit Card,Europe
+TX1256,C175,P1043,2024-05-04,2.0,152.21,Clothing,Debit Card,Australia
+TX1257,C128,P1064,2024-07-24,5.0,52.48,Toys,Unknown,North America
+TX1258,C100,P1034,2024-03-06,2.0,199.49,Clothing,PayPal,Australia
+TX1259,C109,P1000,2024-03-09,5.0,277.08,Toys,PayPal,Europe
+TX1260,C190,P1036,2023-11-25,4.0,248.02,Toys,Credit Card,Europe
+TX1261,C180,P1092,2024-01-24,5.0,31.98,Home & Kitchen,Debit Card,Asia
+TX1262,C107,P1038,2023-11-10,3.0,6.89,Clothing,Credit Card,Europe
+TX1263,C129,P1075,2023-12-16,4.0,48.38,Home & Kitchen,Gift Card,Australia
+TX1264,C108,P1074,2024-04-07,2.0,412.83,Books,PayPal,North America
+TX1265,C104,P1084,2024-07-27,1.0,314.42,Toys,Gift Card,South America
+TX1266,C142,P1062,2023-09-18,5.0,242.76,Toys,Debit Card,Australia
+TX1267,C109,P1019,2024-05-09,3.0,53.01,Electronics,PayPal,Europe
+TX1268,C165,P1057,2024-03-21,1.0,107.44,Clothing,Gift Card,Europe
+TX1269,C130,P1068,2024-02-14,1.0,320.9,Books,Gift Card,Asia
+TX1270,C135,P1061,2024-07-21,4.0,488.64,Books,Gift Card,Asia
+TX1271,C185,P1044,2023-09-14,2.0,239.42,Clothing,PayPal,Asia
+TX1272,C162,P1042,2024-02-27,1.0,62.18,Electronics,PayPal,Australia
+TX1273,C127,P1070,2024-03-28,3.0,393.51,Electronics,PayPal,South America
+TX1274,C169,P1097,2024-06-12,5.0,238.12,Clothing,PayPal,Asia
+TX1275,C116,P1069,2024-02-08,5.0,447.96,Toys,Credit Card,North America
+TX1276,C192,P1048,2024-01-04,5.0,136.18,Toys,Gift Card,North America
+TX1277,C173,P1058,2024-01-23,4.0,322.72,Books,Credit Card,Asia
+TX1278,C173,P1041,2024-01-02,3.0,196.83,Clothing,Debit Card,Asia
+TX1279,C160,P1024,2024-01-30,1.0,188.66,Toys,Gift Card,South America
+TX1280,C131,P1089,2024-02-23,3.0,193.82,Electronics,PayPal,South America
+TX1281,C160,P1030,2024-05-11,4.0,97.36,Clothing,PayPal,Australia
+TX1282,C152,P1073,2023-12-04,4.0,27.09,Books,PayPal,Australia
+TX1283,C124,P1049,2023-08-26,2.0,222.67,Toys,Credit Card,North America
+TX1284,C112,P1029,2023-12-04,3.0,0.0,Toys,PayPal,South America
+TX1285,C112,P1099,2024-02-08,5.0,419.35,Electronics,Gift Card,Australia
+TX1286,C184,P1052,2023-11-23,4.0,284.3,Toys,Gift Card,Australia
+TX1287,C155,P1005,2024-03-31,4.0,79.81,Toys,Debit Card,Asia
+TX1288,C145,P1040,2024-07-03,2.0,349.75,Electronics,Gift Card,South America
+TX1289,C154,P1095,2024-01-10,5.0,52.87,Electronics,PayPal,Australia
+TX1290,C152,P1060,2024-07-05,4.0,335.73,Books,Gift Card,Asia
+TX1291,C159,P1090,2024-01-07,1.0,405.05,Clothing,Gift Card,North America
+TX1292,C193,P1048,2023-10-11,5.0,209.92,Toys,Credit Card,Europe
+TX1293,C106,P1049,2024-05-14,3.0,379.45,Toys,Gift Card,South America
+TX1294,C186,P1084,2023-11-09,2.0,117.62,Electronics,Debit Card,North America
+TX1295,C183,P1083,2024-03-17,1.0,35.19,Books,Gift Card,North America
+TX1296,C182,P1019,2024-03-03,1.0,196.62,Toys,Credit Card,South America
+TX1297,C112,P1063,2024-06-23,3.0,263.68,Books,Credit Card,Europe
+TX1298,C107,P1004,2024-07-05,2.0,482.99,Home & Kitchen,Gift Card,Asia
+TX1299,C151,P1016,2024-02-29,4.0,345.1,Electronics,Gift Card,North America
+TX1300,C193,P1064,2023-09-11,2.0,468.5,Toys,Credit Card,North America
+TX1301,C143,P1075,2024-03-16,4.0,288.49,Books,PayPal,Europe
+TX1302,C113,P1042,2024-03-11,3.0,121.64,Clothing,Gift Card,Asia
+TX1303,C131,P1012,2023-12-30,3.0,152.93,Books,Credit Card,North America
+TX1304,C124,P1056,2023-10-11,1.0,200.43,Books,Gift Card,Europe
+TX1305,C124,P1012,2024-01-09,1.0,427.7,Home & Kitchen,Credit Card,South America
+TX1306,C168,P1067,2024-05-21,1.0,22.19,Toys,PayPal,Europe
+TX1307,C157,P1058,2023-08-27,3.0,287.75,Toys,Debit Card,Europe
+TX1308,C117,P1001,2023-12-31,4.0,260.82,Electronics,Gift Card,Australia
+TX1309,C154,P1092,2024-02-17,3.0,287.89,Books,Gift Card,North America
+TX1310,C123,P1018,2023-12-30,3.0,491.46,Clothing,Debit Card,Asia
+TX1311,C135,P1052,2024-07-24,1.0,77.99,Home & Kitchen,Debit Card,South America
+TX1312,C159,P1083,2024-02-16,2.0,474.88,Books,Gift Card,Australia
+TX1313,C131,P1019,2023-10-05,1.0,227.27,Clothing,PayPal,Europe
+TX1314,C109,P1009,2024-01-05,2.0,474.79,Electronics,Gift Card,South America
+TX1315,C156,P1060,2024-03-27,4.0,87.75,Home & Kitchen,Debit Card,Asia
+TX1316,C170,P1033,2023-09-22,4.0,109.89,Toys,Credit Card,South America
+TX1317,C112,P1043,2024-07-16,5.0,100.4,Toys,PayPal,South America
+TX1318,C106,P1079,2024-07-07,5.0,26.12,Books,Gift Card,North America
+TX1319,C183,P1088,2023-09-06,5.0,43.79,Home & Kitchen,Gift Card,Asia
+TX1320,C169,P1050,2023-09-23,4.0,343.15,Clothing,Credit Card,Europe
+TX1321,C101,P1083,2024-01-20,1.0,104.95,Electronics,Credit Card,North America
+TX1322,C111,P1010,2024-02-10,1.0,412.17,Electronics,PayPal,North America
+TX1323,C196,P1042,2023-11-26,1.0,78.2,Toys,PayPal,Europe
+TX1324,C130,P1086,2023-09-02,3.0,0.0,Toys,Gift Card,Australia
+TX1325,C121,P1068,2024-05-25,5.0,163.28,Electronics,Gift Card,Asia
+TX1326,C152,P1048,2024-07-30,1.0,364.92,Toys,Debit Card,South America
+TX1327,C162,P1040,2024-06-02,5.0,404.64,Electronics,Gift Card,Australia
+TX1328,C161,P1080,2023-10-08,5.0,48.08,Books,Credit Card,Asia
+TX1329,C127,P1091,2023-09-02,3.0,280.4,Clothing,PayPal,Asia
+TX1330,C151,P1097,2024-01-03,4.0,278.27,Home & Kitchen,Gift Card,South America
+TX1331,C107,P1062,2024-07-28,1.0,429.03,Books,PayPal,Australia
+TX1332,C121,P1069,2024-06-11,3.0,262.25,Home & Kitchen,Gift Card,Australia
+TX1333,C148,P1004,2024-07-11,4.0,459.0,Electronics,Credit Card,Australia
+TX1334,C100,P1079,2024-04-16,4.0,11.12,Clothing,Debit Card,South America
+TX1335,C149,P1008,2023-09-19,1.0,351.7,Books,Debit Card,South America
+TX1336,C133,P1030,2024-02-09,5.0,295.85,Toys,PayPal,Asia
+TX1337,C158,P1080,2024-02-11,2.0,391.93,Unknown,Credit Card,Australia
+TX1338,C136,P1087,2024-01-31,5.0,60.7,Home & Kitchen,Credit Card,Europe
+TX1339,C154,P1036,2023-10-29,5.0,79.07,Toys,Credit Card,Asia
+TX1340,C189,P1029,2024-07-29,2.0,285.46,Books,Gift Card,Europe
+TX1341,C193,P1095,2023-10-10,4.0,293.43,Toys,Debit Card,Asia
+TX1342,C171,P1011,2024-05-28,2.0,482.59,Home & Kitchen,Credit Card,Europe
+TX1343,C184,P1055,2023-09-02,2.0,54.6,Toys,Gift Card,South America
+TX1344,C191,P1012,2023-12-28,3.0,57.29,Home & Kitchen,PayPal,Asia
+TX1345,C162,P1097,2024-02-07,3.0,390.87,Books,Gift Card,Asia
+TX1346,C119,P1081,2024-02-06,3.0,393.94,Clothing,Gift Card,North America
+TX1347,C124,P1090,2023-12-31,4.0,434.4,Books,Credit Card,Europe
+TX1348,C137,P1012,2024-07-06,2.0,440.67,Toys,PayPal,Asia
+TX1349,C127,P1056,2023-10-26,1.0,439.56,Toys,Debit Card,Asia
+TX1350,C107,P1021,2024-06-05,2.0,135.75,Books,PayPal,South America
+TX1351,C174,P1088,2023-11-17,4.0,329.12,Clothing,PayPal,Europe
+TX1352,C194,P1038,2024-02-09,3.0,288.15,Home & Kitchen,PayPal,Australia
+TX1353,C169,P1003,2024-01-24,4.0,239.16,Toys,PayPal,Europe
+TX1354,C107,P1005,2024-03-07,3.0,90.24,Toys,Credit Card,Australia
+TX1355,C195,P1041,2023-09-17,4.0,204.47,Books,Gift Card,Asia
+TX1356,C140,P1007,2024-03-25,1.0,311.03,Home & Kitchen,Debit Card,Europe
+TX1357,C107,P1037,2024-04-09,3.0,342.0,Home & Kitchen,Debit Card,Europe
+TX1358,C106,P1045,2024-06-17,3.0,203.85,Toys,Gift Card,Europe
+TX1359,C174,P1047,2024-08-01,2.0,200.92,Home & Kitchen,Debit Card,Europe
+TX1360,C161,P1055,2024-05-11,4.0,440.08,Books,PayPal,Europe
+TX1361,C164,P1018,2023-12-03,5.0,346.8,Clothing,Credit Card,North America
+TX1362,C167,P1031,2023-11-23,5.0,29.4,Electronics,PayPal,North America
+TX1363,C120,P1067,2024-01-29,2.0,240.23,Clothing,PayPal,Asia
+TX1364,C107,P1052,2023-11-01,4.0,137.95,Books,Credit Card,Australia
+TX1365,C165,P1072,2024-06-15,1.0,189.36,Clothing,Debit Card,Europe
+TX1366,C110,P1087,2024-04-02,2.0,172.24,Electronics,Credit Card,South America
+TX1367,C123,P1023,2024-04-03,3.0,397.86,Clothing,Gift Card,Asia
+TX1368,C108,P1021,2023-08-20,1.0,158.92,Toys,Gift Card,Asia
+TX1369,C176,P1022,2023-12-30,4.0,422.21,Books,Gift Card,Europe
+TX1370,C108,P1010,2024-04-27,3.0,429.83,Home & Kitchen,Credit Card,Europe
+TX1371,C186,P1078,2034-08-31,5.0,344.0,Toys,Gift Card,Australia
+TX1372,C130,P1048,2024-03-21,4.0,486.39,Toys,PayPal,North America
+TX1373,C151,P1079,2023-08-25,3.0,117.84,Electronics,PayPal,Asia
+TX1374,C115,P1087,2023-12-07,4.0,153.74,Clothing,Gift Card,Asia
+TX1375,C172,P1030,2024-05-04,3.0,373.14,Books,Gift Card,Europe
+TX1376,C131,P1063,2024-06-13,4.0,388.15,Electronics,Gift Card,Asia
+TX1377,C174,P1074,2024-06-06,5.0,163.83,Electronics,Gift Card,South America
+TX1378,C176,P1018,2024-07-08,2.0,365.76,Clothing,Credit Card,Australia
+TX1379,C105,P1029,2023-12-27,3.0,304.46,Books,Credit Card,Europe
+TX1380,C179,P1059,2024-05-18,3.0,49.2,Toys,PayPal,Australia
+TX1381,C110,P1081,2023-12-31,5.0,223.65,Books,Debit Card,Asia
+TX1382,C153,P1032,2024-07-01,2.0,457.15,Electronics,PayPal,North America
+TX1383,C184,P1058,2023-08-31,4.0,206.55,Electronics,Credit Card,North America
+TX1384,C174,P1032,2024-03-04,3.0,244.81,Home & Kitchen,PayPal,South America
+TX1385,C172,P1085,2023-09-08,2.0,260.67,Clothing,PayPal,South America
+TX1386,C166,P1001,2024-02-19,4.0,190.09,Home & Kitchen,Credit Card,Europe
+TX1387,C140,P1059,2023-08-17,3.0,32.82,Electronics,Debit Card,South America
+TX1388,C133,P1036,2024-07-12,3.0,396.79,Toys,Credit Card,Asia
+TX1389,C126,P1086,2023-11-07,4.0,37.48,Electronics,PayPal,Europe
+TX1390,C185,P1069,2023-11-11,5.0,356.24,Books,Credit Card,North America
+TX1391,C191,P1020,2024-03-19,2.0,204.68,Books,Debit Card,Australia
+TX1392,C140,P1009,2024-03-14,3.0,391.36,Toys,Debit Card,Australia
+TX1393,C130,P1056,2024-05-26,4.0,264.52,Toys,Credit Card,Asia
+TX1394,C133,P1044,2023-08-16,3.0,286.49,Home & Kitchen,Credit Card,Asia
+TX1395,C150,P1075,2023-08-17,4.0,91.0,Toys,Credit Card,South America
+TX1396,C116,P1038,2023-08-22,3.0,438.21,Electronics,Gift Card,Asia
+TX1397,C185,P1081,2023-09-23,1.0,104.36,Clothing,PayPal,Australia
+TX1398,C182,P1054,2024-05-17,5.0,33.53,Books,PayPal,Europe
+TX1399,C138,P1088,2024-02-11,2.0,21.37,Books,Debit Card,Australia
+TX1400,C158,P1032,2023-11-28,5.0,30.03,Electronics,PayPal,South America
+TX1401,C140,P1058,2024-04-22,5.0,183.39,Clothing,Gift Card,Asia
+TX1402,C196,P1038,2024-06-13,2.0,103.56,Toys,Debit Card,North America
+TX1403,C109,P1025,2024-05-04,5.0,187.33,Home & Kitchen,Credit Card,South America
+TX1404,C101,P1049,2024-06-04,1.0,234.79,Clothing,Credit Card,North America
+TX1405,C158,P1061,2024-04-15,4.0,201.49,Electronics,Debit Card,Europe
+TX1406,C179,P9999,2023-12-06,2.0,461.92,Toys,Debit Card,Australia
+TX1407,C172,P1030,2024-08-01,4.0,342.18,Toys,Debit Card,North America
+TX1408,C112,P1048,2024-02-12,3.0,124.76,Toys,Gift Card,Asia
+TX1409,C109,P1073,2023-11-05,1.0,246.95,Clothing,Credit Card,North America
+TX1410,C168,P1045,2023-10-26,4.0,225.82,Toys,Gift Card,South America
+TX1411,C127,P1073,2024-02-08,4.0,480.46,Clothing,Credit Card,Australia
+TX1412,C164,P1037,2023-12-19,2.0,239.92,Electronics,Debit Card,Europe
+TX1413,C133,P1089,2023-11-06,3.0,277.91,Home & Kitchen,Gift Card,South America
+TX1414,C116,P1037,2024-06-09,2.0,175.4,Clothing,PayPal,Asia
+TX1415,C144,P1002,2023-10-06,3.0,419.64,Electronics,Credit Card,North America
+TX1416,C108,P1084,2024-07-01,2.0,133.04,Clothing,Debit Card,Asia
+TX1417,C131,P1050,2024-07-12,4.0,416.28,Electronics,Debit Card,North America
+TX1418,C147,P1035,2024-03-09,4.0,49.74,Home & Kitchen,Gift Card,Australia
+TX1419,C136,P1001,2024-01-24,1.0,18.59,Books,PayPal,Europe
+TX1420,C120,P1072,2023-12-13,4.0,29.58,Home & Kitchen,PayPal,Australia
+TX1421,C156,P1087,2023-11-19,5.0,427.64,Books,Credit Card,Australia
+TX1422,C169,P1099,2024-01-17,4.0,391.02,Books,Credit Card,Europe
+TX1423,C190,P1095,2024-01-18,5.0,111.09,Toys,Credit Card,Asia
+TX1424,C138,P1006,2023-10-25,4.0,-114.57,Clothing,Gift Card,Europe
+TX1425,C178,P1077,2024-07-08,5.0,116.43,Toys,Debit Card,North America
+TX1426,C183,P1095,2024-06-11,5.0,107.33,Electronics,Gift Card,North America
+TX1427,C167,P1063,2024-03-05,4.0,327.54,Electronics,Debit Card,Australia
+TX1428,C101,P1036,2023-09-21,5.0,259.07,Electronics,Debit Card,South America
+TX1429,C185,P1099,2024-07-08,1.0,432.99,Toys,Debit Card,North America
+TX1430,C170,P1029,2023-12-28,3.0,483.73,Home & Kitchen,PayPal,Australia
+TX1431,C138,P1077,2023-12-20,5.0,342.69,Toys,Gift Card,South America
+TX1432,C184,P1045,2023-09-01,5.0,239.68,Toys,Gift Card,Europe
+TX1433,C113,P1028,2023-11-24,1.0,0.0,Home & Kitchen,Gift Card,South America
+TX1434,C117,P1081,2024-02-20,1.0,90.73,Home & Kitchen,PayPal,Asia
+TX1435,C133,P1024,2024-06-10,2.0,401.43,Home & Kitchen,PayPal,Australia
+TX1436,C114,P1079,2023-11-06,3.0,115.77,Clothing,Debit Card,Australia
+TX1437,C113,P1032,2023-09-22,2.0,306.13,Toys,PayPal,Australia
+TX1438,C195,P1086,2023-10-19,5.0,471.79,Clothing,Credit Card,North America
+TX1439,C170,P1096,2024-05-13,1.0,357.81,Books,Credit Card,Asia
+TX1440,C119,P1092,2024-06-09,5.0,356.14,Books,Credit Card,South America
+TX1441,C134,P1098,2024-01-06,4.0,141.31,Toys,Gift Card,Europe
+TX1442,C136,P1084,2023-12-01,3.0,448.26,Electronics,Credit Card,South America
+TX1443,C177,P1087,2024-07-17,4.0,426.54,Home & Kitchen,PayPal,Asia
+TX1444,C126,P1017,2024-06-12,1.0,232.2,Clothing,Gift Card,South America
+TX1445,C191,P1080,2023-11-23,1.0,113.01,Books,Gift Card,Asia
+TX1446,C143,P1012,2024-05-28,1.0,154.56,Toys,Credit Card,North America
+TX1447,C126,P1080,2024-03-12,3.0,262.72,Electronics,Debit Card,Asia
+TX1448,C187,P1082,2024-05-22,2.0,313.69,Toys,Debit Card,Asia
+TX1449,C181,P1005,2024-05-24,5.0,294.32,Electronics,PayPal,Asia
+TX1450,C133,P1039,2024-03-02,5.0,8.64,Toys,Credit Card,Asia
+TX1451,C164,P1056,2023-08-17,5.0,499.72,Home & Kitchen,PayPal,South America
+TX1452,C162,P1004,2024-04-21,5.0,483.41,Home & Kitchen,Debit Card,Australia
+TX1453,C132,P1074,2024-02-19,5.0,420.49,Electronics,Debit Card,North America
+TX1454,C106,P1046,2023-11-23,2.0,282.92,Toys,Credit Card,Europe
+TX1455,C111,P1093,2024-03-22,4.0,298.92,Home & Kitchen,Debit Card,South America
+TX1456,C181,P1016,2024-07-05,3.0,144.93,Toys,Debit Card,South America
+TX1457,C154,P1011,2024-04-08,4.0,343.78,Toys,Debit Card,South America
+TX1458,C135,P1037,2024-05-06,4.0,243.46,Home & Kitchen,Credit Card,Asia
+TX1459,C105,P1041,2023-09-24,5.0,171.46,Books,Credit Card,Europe
+TX1460,C100,P1095,2023-11-06,5.0,141.86,Books,Debit Card,South America
+TX1461,C142,P1053,2024-03-27,2.0,165.94,Toys,Debit Card,South America
+TX1462,C198,P1022,2024-06-11,3.0,142.06,Books,Gift Card,Europe
+TX1463,C116,P1025,2023-09-29,1.0,329.78,Clothing,Credit Card,Australia
+TX1464,C181,P1016,2024-03-12,4.0,476.33,Home & Kitchen,PayPal,Australia
+TX1465,C133,P1069,2023-10-05,1.0,327.48,Books,PayPal,North America
+TX1466,C120,P1046,2023-11-15,3.0,98.24,Books,Debit Card,Europe
+TX1467,C194,P1067,2024-06-28,4.0,261.06,Toys,Debit Card,Europe
+TX1468,C156,P1064,2023-12-01,1.0,123.95,Electronics,Gift Card,Asia
+TX1469,C170,P1034,2023-09-21,1.0,33.1,Books,Gift Card,South America
+TX1470,C190,P1021,2024-05-20,2.0,429.37,Electronics,Credit Card,Australia
+TX1471,C154,P1032,2023-10-16,3.0,405.96,Home & Kitchen,PayPal,Asia
+TX1472,C171,P1061,2023-10-22,3.0,205.03,Electronics,Gift Card,North America
+TX1473,C101,P1037,2024-05-28,3.0,163.19,Books,PayPal,Australia
+TX1474,C114,P1095,2024-05-19,4.0,74.27,Clothing,Gift Card,South America
+TX1475,C109,P1043,2023-09-12,2.0,17.6,Clothing,Debit Card,North America
+TX1476,C188,P1014,2023-09-30,5.0,251.2,Home & Kitchen,Gift Card,North America
+TX1477,C119,P1059,2023-10-10,4.0,151.32,Books,Gift Card,South America
+TX1478,C169,P1009,2024-02-24,3.0,453.92,Home & Kitchen,Credit Card,Asia
+TX1479,C104,P1018,2023-10-31,4.0,205.28,Toys,Debit Card,South America
+TX1480,C147,P1096,2024-07-24,1.0,369.68,Toys,Debit Card,Europe
+TX1481,C174,P1028,2024-07-31,4.0,293.6,Electronics,Credit Card,Australia
+TX1482,C170,P1086,2024-07-04,4.0,497.4,Home & Kitchen,PayPal,South America
+TX1483,C118,P1092,2024-07-22,3.0,408.93,Clothing,Debit Card,Australia
+TX1484,C155,P1086,2023-09-21,1.0,174.87,Home & Kitchen,Debit Card,Europe
+TX1485,C116,P1050,2023-10-24,3.0,358.12,Electronics,Credit Card,Europe
+TX1486,C105,P1071,2024-04-01,1.0,0.0,Books,PayPal,Europe
+TX1487,C139,P1046,2023-09-16,1.0,320.97,Home & Kitchen,Debit Card,South America
+TX1488,C146,P1011,2024-04-29,1.0,240.49,Electronics,Credit Card,Asia
+TX1489,C105,P1050,2023-10-27,3.0,470.63,Toys,Debit Card,Australia
+TX1490,C145,P1001,2024-01-14,1.0,182.46,Clothing,Gift Card,South America
+TX1491,C126,P1033,2023-10-03,2.0,153.6,Books,PayPal,North America
+TX1492,C187,P1068,2023-09-22,2.0,89.14,Home & Kitchen,Gift Card,Asia
+TX1493,C131,P1015,2024-07-30,5.0,330.52,Home & Kitchen,PayPal,Australia
+TX1494,C185,P1058,2023-12-04,2.0,281.33,Clothing,Credit Card,Asia
+TX1495,C113,P1047,2023-09-28,5.0,150.42,Toys,Debit Card,South America
+TX1496,C145,P1086,2023-11-09,2.0,238.04,Home & Kitchen,Debit Card,Australia
+TX1497,C199,P1095,2024-03-19,3.0,371.75,Clothing,Credit Card,South America
+TX1498,C171,P1086,2023-09-21,5.0,363.97,Clothing,Debit Card,Europe
+TX1499,C152,P1033,2024-03-13,4.0,281.72,Books,Gift Card,North America
+TX1500,C179,P1074,2023-12-11,4.0,456.75,Clothing,Credit Card,North America
+TX1501,C195,P1048,2024-04-11,2.0,473.73,Clothing,Gift Card,Europe
+TX1502,C119,P1081,2023-08-30,4.0,450.3,Clothing,PayPal,Asia
+TX1503,C130,P1047,2024-01-20,2.0,328.95,Home & Kitchen,Debit Card,Asia
+TX1504,C120,P1013,2024-03-15,2.0,115.02,Clothing,Gift Card,South America
+TX1505,C122,P1086,2023-12-26,4.0,115.55,Clothing,Debit Card,North America
+TX1506,C152,P1029,2024-07-08,4.0,436.36,Clothing,PayPal,Asia
+TX1507,C103,P1060,2023-08-28,1.0,213.13,Clothing,Debit Card,South America
+TX1508,C122,P1003,2024-07-15,5.0,443.99,Toys,PayPal,Europe
+TX1509,C194,P1079,2024-05-26,2.0,188.98,Home & Kitchen,Credit Card,South America
+TX1510,C142,P1071,2024-01-02,4.0,294.86,Clothing,Debit Card,Europe
+TX1511,C152,P1041,2024-01-15,5.0,234.56,Electronics,Credit Card,North America
+TX1512,C185,P1078,2023-12-11,4.0,63.3,Electronics,PayPal,North America
+TX1513,C194,P1028,2023-12-21,4.0,31.57,Electronics,Credit Card,Asia
+TX1514,C131,P1082,2024-05-02,1.0,319.03,Books,Gift Card,South America
+TX1515,C134,P1008,2024-02-22,2.0,292.25,Toys,Credit Card,North America
+TX1516,C120,P1081,2023-10-09,2.0,312.22,Electronics,Gift Card,Australia
+TX1517,C189,P1059,2024-06-02,3.0,238.75,Toys,PayPal,Asia
+TX1518,C113,P1089,2024-03-07,1.0,101.3,Electronics,PayPal,Australia
+TX1519,C148,P1038,2024-03-04,5.0,64.31,Books,Debit Card,South America
+TX1520,C104,P1083,2024-02-20,1.0,341.95,Home & Kitchen,Gift Card,Australia
+TX1521,C160,P1052,2024-01-23,5.0,267.27,Toys,Debit Card,South America
+TX1522,C128,P1014,2024-06-09,2.0,209.49,Home & Kitchen,Debit Card,Asia
+TX1523,C125,P1017,2024-02-07,3.0,436.07,Books,PayPal,South America
+TX1524,C158,P1005,2023-11-25,3.0,79.64,Toys,Credit Card,North America
+TX1525,C144,P1004,2023-11-01,2.0,496.21,Home & Kitchen,PayPal,Asia
+TX1526,C139,P1038,2024-06-21,4.0,174.62,Books,PayPal,Australia
+TX1527,C129,P1063,2024-03-04,1.0,493.66,Clothing,Credit Card,Australia
+TX1528,C128,P1014,2024-04-13,3.0,446.96,Toys,Gift Card,North America
+TX1529,C103,P1012,2023-12-20,4.0,493.39,Home & Kitchen,Gift Card,Asia
+TX1530,C184,P1030,2024-06-13,5.0,75.9,Books,Credit Card,Europe
+TX1531,C124,P1068,2024-03-31,3.0,431.89,Clothing,Credit Card,Australia
+TX1532,C151,P1017,2023-12-28,5.0,94.28,Toys,Debit Card,North America
+TX1533,C142,P1049,2024-04-10,4.0,45.0,Clothing,Credit Card,Europe
+TX1534,C135,P1058,2024-06-03,5.0,169.65,Electronics,Credit Card,Unknown
+TX1535,C108,P1047,2024-06-26,4.0,493.39,Toys,Debit Card,South America
+TX1536,C198,P1085,2024-07-20,5.0,160.14,Books,Gift Card,Europe
+TX1537,C135,P1095,2024-03-19,1.0,33.72,Books,Credit Card,Asia
+TX1538,C144,P1089,2024-01-31,3.0,228.77,Toys,Credit Card,Europe
+TX1539,C182,P1069,2023-10-04,3.0,108.64,Electronics,Debit Card,North America
+TX1540,C165,P1053,2024-01-13,4.0,387.9,Toys,Credit Card,Asia
+TX1541,C151,P1075,2024-04-09,5.0,290.26,Home & Kitchen,Debit Card,Asia
+TX1542,C186,P1095,2024-05-25,2.0,83.43,Books,PayPal,South America
+TX1543,C168,P1093,2024-02-29,3.0,393.68,Clothing,Debit Card,Asia
+TX1544,C142,P1019,2023-10-24,5.0,390.98,Books,PayPal,North America
+TX1545,C103,P1053,2024-03-07,5.0,69.06,Electronics,PayPal,Asia
+TX1546,C114,P1083,2024-05-09,1.0,219.69,Toys,Debit Card,Asia
+TX1547,C133,P1012,2024-05-25,2.0,217.56,Books,Debit Card,Australia
+TX1548,C122,P1062,2023-12-03,3.0,217.37,Home & Kitchen,Debit Card,North America
+TX1549,C174,P1078,2023-11-25,1.0,241.31,Electronics,Gift Card,Australia
+TX1550,C133,P1052,2023-12-19,2.0,7.31,Electronics,Credit Card,Europe
+TX1551,C104,P1035,2023-12-03,3.0,269.22,Clothing,Debit Card,Europe
+TX1552,C113,P1004,2024-03-10,1.0,366.68,Books,PayPal,North America
+TX1553,C176,P1088,2023-12-04,2.0,475.28,Toys,PayPal,Australia
+TX1554,C155,P1047,2024-08-03,3.0,446.54,Electronics,Debit Card,Europe
+TX1555,C144,P1027,2024-06-29,2.0,379.64,Home & Kitchen,Credit Card,Australia
+TX1556,C193,P1056,2024-01-26,5.0,267.86,Home & Kitchen,Credit Card,Asia
+TX1557,C140,P1056,2023-11-30,4.0,13.87,Toys,Credit Card,Asia
+TX1558,C155,P1030,2023-12-24,4.0,0.0,Home & Kitchen,PayPal,Asia
+TX1559,C177,P1046,2024-04-13,5.0,368.13,Clothing,Debit Card,Asia
+TX1560,C165,P1012,2024-04-26,2.0,117.0,Toys,Debit Card,Asia
+TX1561,C114,P1087,2023-10-21,5.0,439.11,Home & Kitchen,Debit Card,North America
+TX1562,C149,P1047,2024-02-16,4.0,159.49,Clothing,PayPal,Australia
+TX1563,C173,P1069,2024-07-21,4.0,55.84,Home & Kitchen,Debit Card,Australia
+TX1564,C124,P1082,2024-07-20,2.0,254.15,Books,PayPal,Asia
+TX1565,C132,P1045,2024-03-23,4.0,156.53,Toys,PayPal,Europe
+TX1566,C105,P1007,2023-12-05,5.0,37.32,Home & Kitchen,Credit Card,North America
+TX1567,C190,P1050,2023-10-14,2.0,27.63,Home & Kitchen,Debit Card,Europe
+TX1568,C155,P1035,2023-09-15,5.0,474.49,Clothing,Debit Card,Australia
+TX1569,C100,P1024,2023-09-05,2.0,230.68,Books,Gift Card,Asia
+TX1570,C166,P1015,2023-12-18,4.0,262.54,Books,Credit Card,Asia
+TX1571,C168,P1058,2024-03-21,3.0,264.44,Clothing,PayPal,South America
+TX1572,C187,P1011,2023-11-14,2.0,219.66,Books,Credit Card,South America
+TX1573,C192,P1084,2024-08-10,2.0,344.96,Home & Kitchen,Gift Card,Asia
+TX1574,C194,P1027,2024-06-20,3.0,71.23,Home & Kitchen,Credit Card,Europe
+TX1575,C194,P1082,2024-01-07,4.0,498.09,Books,Credit Card,North America
+TX1576,C185,P1081,2024-06-07,5.0,247.64,Home & Kitchen,Gift Card,Europe
+TX1577,C125,P1076,2024-04-01,1.0,376.31,Books,Credit Card,Europe
+TX1578,C146,P1002,2024-02-09,3.0,86.62,Clothing,Credit Card,Australia
+TX1579,C155,P1006,2024-01-21,1.0,453.91,Toys,Gift Card,Europe
+TX1580,C108,P1042,2024-02-09,4.0,406.94,Clothing,Gift Card,Europe
+TX1581,C185,P1031,2024-07-22,2.0,14.47,Toys,PayPal,Australia
+TX1582,C142,P1016,2024-01-22,2.0,116.04,Clothing,Gift Card,Australia
+TX1583,C179,P1072,2024-07-19,4.0,492.52,Electronics,Debit Card,Australia
+TX1584,C140,P1026,2023-10-28,5.0,109.54,Home & Kitchen,Debit Card,Unknown
+TX1585,C184,P1008,2023-11-01,5.0,15.85,Clothing,Debit Card,Australia
+TX1586,C115,P1097,2024-05-07,4.0,254.79,Toys,PayPal,North America
+TX1587,C192,P1070,2024-02-11,4.0,65.97,Books,Credit Card,South America
+TX1588,C138,P1026,2023-11-05,4.0,357.0,Books,Gift Card,South America
+TX1589,C164,P1075,2024-03-20,4.0,397.1,Clothing,PayPal,North America
+TX1590,C139,P1027,2024-07-08,4.0,190.72,Clothing,Credit Card,North America
+TX1591,C185,P1029,2024-01-30,4.0,321.96,Clothing,Gift Card,Europe
+TX1592,C152,P1042,2023-11-30,2.0,386.77,Books,Credit Card,North America
+TX1593,C141,P1099,2023-12-28,1.0,313.45,Electronics,Gift Card,South America
+TX1594,C151,P1018,2023-11-07,5.0,298.99,Clothing,Debit Card,Asia
+TX1595,C189,P1076,2024-03-24,1.0,28.74,Books,Gift Card,Asia
+TX1596,C137,P1000,2023-09-30,2.0,58.52,Books,Gift Card,Asia
+TX1597,C170,P1035,2023-09-01,3.0,418.88,Clothing,PayPal,Europe
+TX1598,C116,P1018,2023-10-07,1.0,28.88,Toys,PayPal,South America
+TX1599,C124,P1016,2024-06-15,3.0,62.32,Toys,PayPal,Australia
+TX1600,C153,P1069,2024-06-10,2.0,224.94,Home & Kitchen,Debit Card,Australia
+TX1601,C185,P1032,2024-06-26,5.0,66.18,Books,Debit Card,Asia
+TX1602,C148,P1022,2024-01-26,3.0,130.11,Home & Kitchen,Gift Card,Europe
+TX1603,C186,P1014,2024-02-05,2.0,352.42,Home & Kitchen,PayPal,Asia
+TX1604,C195,P1084,2024-02-23,4.0,106.72,Toys,Debit Card,North America
+TX1605,C122,P1003,2023-11-03,5.0,344.44,Toys,Debit Card,North America
+TX1606,C178,P1016,2024-02-09,4.0,9.61,Electronics,Gift Card,Europe
+TX1607,C172,P1001,2024-06-02,5.0,213.33,Books,Gift Card,Europe
+TX1608,C138,P1045,2024-05-05,5.0,54.99,Electronics,Credit Card,Europe
+TX1609,C151,P1030,2023-10-11,1.0,262.55,Clothing,Credit Card,Europe
+TX1610,C170,P1075,2023-11-28,5.0,313.28,Electronics,Gift Card,Asia
+TX1611,C100,P1041,2024-01-22,1.0,351.86,Clothing,Credit Card,Europe
+TX1612,C138,P1002,2023-12-02,3.0,212.32,Home & Kitchen,Debit Card,Europe
+TX1613,C136,P1022,2024-07-25,5.0,449.82,Books,Gift Card,Europe
+TX1614,C126,P1033,2024-07-22,3.0,258.23,Electronics,Gift Card,North America
+TX1615,C155,P1006,2024-07-26,5.0,310.76,Books,PayPal,South America
+TX1616,C174,P1016,2024-06-05,0.0,144.94,Home & Kitchen,Debit Card,North America
+TX1617,C177,P1094,2024-02-26,4.0,393.46,Home & Kitchen,Debit Card,North America
+TX1618,C183,P1053,2023-12-16,5.0,251.38,Home & Kitchen,PayPal,North America
+TX1619,C141,P1067,2023-11-23,2.0,306.46,Home & Kitchen,Credit Card,South America
+TX1620,C159,P1014,2023-12-25,4.0,390.09,Toys,Gift Card,South America
+TX1621,C156,P1095,2024-05-30,1.0,416.59,Toys,Credit Card,North America
+TX1622,C156,P1008,2023-10-09,2.0,486.69,Home & Kitchen,Debit Card,Europe
+TX1623,C186,P1060,2023-11-25,3.0,182.17,Home & Kitchen,Credit Card,North America
+TX1624,C127,P1057,2024-06-04,1.0,207.83,Electronics,Debit Card,North America
+TX1625,C165,P1099,2024-02-29,4.0,84.38,Books,Gift Card,Australia
+TX1626,C160,P1046,2023-10-06,3.0,276.33,Electronics,Gift Card,Australia
+TX1627,C194,P1065,2024-03-04,3.0,455.63,Home & Kitchen,Gift Card,North America
+TX1628,C121,P1075,2024-05-23,1.0,345.66,Toys,PayPal,South America
+TX1629,C184,P1013,2024-01-26,4.0,242.93,Clothing,PayPal,North America
+TX1630,C110,P1057,2023-10-04,1.0,121.08,Toys,PayPal,Asia
+TX1631,C136,P1064,2024-03-14,2.0,11.31,Toys,Gift Card,North America
+TX1632,C165,P1028,2023-10-16,2.0,49.06,Toys,Gift Card,North America
+TX1633,C184,P1078,2024-02-24,5.0,59.66,Clothing,Credit Card,Asia
+TX1634,C181,P1005,2023-11-29,3.0,289.21,Home & Kitchen,Debit Card,North America
+TX1635,C179,P1093,2023-11-28,5.0,249.58,Home & Kitchen,PayPal,North America
+TX1636,C142,P1084,2023-11-16,4.0,474.98,Home & Kitchen,Gift Card,North America
+TX1637,C111,P1066,2023-12-08,2.0,390.87,Toys,Gift Card,Australia
+TX1638,C196,P1038,2023-08-18,5.0,42.15,Books,Debit Card,Europe
+TX1639,C130,P1058,2023-10-31,2.0,363.17,Books,PayPal,Australia
+TX1640,C186,P1082,2024-03-14,2.0,452.87,Electronics,PayPal,Europe
+TX1641,C139,P1003,2023-12-15,2.0,323.95,Books,Credit Card,Europe
+TX1642,C128,P1007,2024-08-06,1.0,0.0,Toys,Gift Card,Asia
+TX1643,C125,P1061,2024-02-08,5.0,488.76,Home & Kitchen,Credit Card,North America
+TX1644,C118,P1051,2024-02-27,3.0,135.74,Books,Gift Card,North America
+TX1645,C103,P1054,2023-09-05,5.0,29.79,Clothing,Debit Card,Europe
+TX1646,C105,P1087,2024-06-19,3.0,407.52,Clothing,Credit Card,Asia
+TX1647,C131,P1013,2024-01-14,5.0,437.7,Home & Kitchen,Gift Card,Australia
+TX1648,C160,P1062,2023-10-21,5.0,426.86,Books,PayPal,Asia
+TX1649,C178,P1091,2024-03-10,2.0,183.31,Toys,Debit Card,Asia
+TX1650,C198,P1056,2023-08-28,3.0,340.0,Toys,Gift Card,Europe
+TX1651,C109,P1009,2023-09-27,3.0,215.87,Books,Credit Card,Australia
+TX1652,C158,P1010,2024-08-01,3.0,62.37,Electronics,Credit Card,Australia
+TX1653,C153,P1041,2023-10-14,5.0,426.37,Electronics,Gift Card,Europe
+TX1654,C180,P1077,2023-12-16,3.0,445.69,Clothing,Debit Card,Australia
+TX1655,C173,P1018,2024-04-01,5.0,9.79,Home & Kitchen,Gift Card,Australia
+TX1656,C124,P1008,2023-09-14,1.0,73.51,Clothing,Credit Card,North America
+TX1657,C191,P1016,2023-10-23,2.0,325.36,Home & Kitchen,Credit Card,North America
+TX1658,C189,P1035,2023-10-24,4.0,167.69,Home & Kitchen,PayPal,Australia
+TX1659,C149,P1079,2024-04-20,1.0,447.79,Home & Kitchen,PayPal,North America
+TX1660,C163,P1081,2024-07-19,3.0,477.77,Home & Kitchen,Credit Card,Australia
+TX1661,C151,P1074,2023-10-21,2.0,137.81,Toys,PayPal,Europe
+TX1662,C131,P1070,2023-12-13,2.0,367.87,Books,PayPal,Europe
+TX1663,C118,P1091,2024-05-19,2.0,189.45,Home & Kitchen,Gift Card,Asia
+TX1664,C183,P1041,2023-11-20,2.0,174.65,Books,Debit Card,Europe
+TX1665,C188,P1048,2023-09-27,3.0,61.35,Home & Kitchen,Gift Card,Australia
+TX1666,C100,P1076,2023-10-02,2.0,203.12,Toys,Gift Card,North America
+TX1667,C196,P1067,2024-02-02,4.0,230.99,Toys,PayPal,North America
+TX1668,C198,P1037,2024-05-31,4.0,418.68,Books,PayPal,Europe
+TX1669,C113,P1058,2023-09-01,2.0,346.5,Books,Debit Card,Australia
+TX1670,C199,P1064,2024-04-12,5.0,241.73,Clothing,Debit Card,South America
+TX1671,C154,P1077,2024-07-29,3.0,213.76,Clothing,Debit Card,Asia
+TX1672,C128,P1055,2023-10-26,4.0,443.63,Electronics,Gift Card,Australia
+TX1673,C122,P1012,2023-08-22,4.0,87.56,Clothing,Debit Card,Europe
+TX1674,C189,P1089,2024-06-19,4.0,70.59,Clothing,Credit Card,South America
+TX1675,C166,P1014,2024-05-09,1.0,364.57,Home & Kitchen,Credit Card,North America
+TX1676,C159,P1083,2024-08-05,1.0,490.88,Electronics,Gift Card,Europe
+TX1677,C106,P1083,2024-01-02,4.0,422.95,Clothing,PayPal,Asia
+TX1678,C171,P1098,2024-03-07,5.0,56.34,Clothing,Debit Card,South America
+TX1678,C171,P1098,2024-03-07,5.0,-56.34,Clothing,Debit Card,South America
+TX1679,C131,P1070,2024-01-13,3.0,456.06,Books,Credit Card,South America
+TX1680,C115,P1092,2024-05-29,3.0,243.92,Electronics,Debit Card,Europe
+TX1681,C158,P1027,2024-01-16,4.0,286.63,Electronics,Credit Card,Australia
+TX1682,C117,P1055,2023-08-27,4.0,221.89,Electronics,Credit Card,Europe
+TX1683,C159,P1057,2024-05-02,3.0,307.6,Books,Debit Card,South America
+TX1684,C185,P1029,2024-01-17,5.0,390.69,Toys,Credit Card,North America
+TX1685,C167,P1052,2023-12-02,1.0,307.62,Electronics,Debit Card,Asia
+TX1686,C171,P1043,2023-10-06,1.0,431.98,Electronics,Credit Card,North America
+TX1687,C999,P1058,2023-12-17,4.0,440.58,Books,PayPal,South America
+TX1688,C140,P1051,2024-07-14,3.0,365.0,Toys,Gift Card,North America
+TX1689,C196,P1053,2023-08-19,1.0,446.42,Electronics,Gift Card,Australia
+TX1690,C156,P1093,2024-06-05,5.0,244.12,Electronics,Debit Card,Europe
+TX1691,C178,P1012,2023-11-23,4.0,246.62,Home & Kitchen,Gift Card,South America
+TX1692,C192,P1040,2024-04-30,2.0,444.36,Toys,Gift Card,Asia
+TX1693,C164,P1054,2023-11-01,4.0,223.14,Clothing,Gift Card,Asia
+TX1694,C154,P1040,2024-03-01,2.0,36.35,Electronics,Gift Card,Australia
+TX1695,C170,P1085,2023-09-10,4.0,329.21,Books,PayPal,North America
+TX1696,C157,P1032,2023-12-14,3.0,11.12,Home & Kitchen,PayPal,North America
+TX1697,C120,P1047,2023-11-19,3.0,434.82,Clothing,Gift Card,Asia
+TX1698,C195,P1019,2024-02-04,3.0,264.78,Clothing,PayPal,South America
+TX1699,C160,P1087,2024-03-07,3.0,0.0,Home & Kitchen,PayPal,North America
+TX1700,C157,P1060,2024-05-18,5.0,363.27,Books,Gift Card,South America
+TX1701,C133,P1008,1970-01-01,5.0,115.87,Clothing,Debit Card,Asia
+TX1702,C196,P1011,2023-11-16,2.0,478.1,Clothing,Gift Card,South America
+TX1703,C131,P1010,2024-02-21,5.0,437.21,Toys,PayPal,Australia
+TX1704,C181,P1011,2023-11-09,4.0,261.95,Clothing,Debit Card,Asia
+TX1705,C135,P1055,2024-02-15,3.0,345.68,Electronics,PayPal,South America
+TX1706,C198,P1012,2023-09-03,1.0,311.03,Electronics,PayPal,Europe
+TX1707,C199,P1095,2023-09-01,1.0,219.26,Home & Kitchen,Credit Card,Australia
+TX1708,C166,P1094,2023-09-20,1.0,364.69,Home & Kitchen,Credit Card,South America
+TX1709,C162,P1047,2023-08-26,4.0,243.56,Books,Credit Card,Asia
+TX1710,C180,P1016,2024-04-01,1.0,333.54,Books,PayPal,South America
+TX1711,C130,P1071,2023-10-07,1.0,322.5,Toys,Gift Card,Europe
+TX1712,C135,P1007,2023-12-11,2.0,78.58,Home & Kitchen,Gift Card,North America
+TX1713,C156,P1075,2024-05-08,4.0,414.09,Toys,PayPal,South America
+TX1714,C109,P1071,2024-04-10,4.0,446.57,Books,Credit Card,Asia
+TX1715,C191,P1071,2024-03-25,1.0,308.39,Clothing,PayPal,Europe
+TX1716,C136,P1042,2023-11-03,4.0,10.76,Toys,Gift Card,North America
+TX1717,C130,P1085,2024-03-15,2.0,467.51,Clothing,Gift Card,South America
+TX1718,C134,P1015,2024-04-21,2.0,255.26,Toys,Gift Card,North America
+TX1719,C142,P1052,2024-03-15,3.0,237.3,Toys,PayPal,South America
+TX1720,C140,P1045,2024-03-20,2.0,250.44,Books,Gift Card,South America
+TX1721,C169,P1085,2023-08-20,3.0,86.87,Toys,Gift Card,Australia
+TX1722,C110,P1096,2024-04-30,1.0,376.96,Books,Gift Card,North America
+TX1723,C117,P1054,2023-08-27,3.0,163.71,Toys,Gift Card,North America
+TX1724,C119,P1092,2023-08-20,3.0,168.79,Toys,Debit Card,Europe
+TX1725,C129,P1006,2023-12-08,1.0,142.69,Home & Kitchen,PayPal,South America
+TX1726,C149,P1036,2024-03-05,3.0,255.93,Home & Kitchen,PayPal,South America
+TX1727,C188,P1076,2023-12-13,2.0,277.5,Books,Gift Card,Australia
+TX1728,C119,P1039,2024-02-18,1.0,192.43,Toys,Credit Card,North America
+TX1729,C190,P1045,2023-11-02,4.0,409.47,Clothing,Gift Card,Europe
+TX1730,C127,P1013,2024-03-27,3.0,44.02,Electronics,PayPal,North America
+TX1731,C108,P1073,2024-03-20,2.0,224.87,Books,Debit Card,Asia
+TX1732,C153,P1064,2024-06-13,4.0,288.65,Home & Kitchen,Gift Card,Europe
+TX1733,C152,P1027,2023-10-26,1.0,48.57,Home & Kitchen,Debit Card,Asia
+TX1734,C142,P1019,2023-09-03,1.0,251.74,Books,Credit Card,Europe
+TX1735,C169,P1084,2023-11-10,1.0,161.45,Home & Kitchen,Credit Card,Australia
+TX1736,C159,P1061,2024-02-02,2.0,490.43,Clothing,Gift Card,South America
+TX1737,C153,P1028,2024-01-25,4.0,373.89,Home & Kitchen,Debit Card,North America
+TX1738,C107,P1013,2024-02-20,1.0,13.8,Electronics,Credit Card,Europe
+TX1739,C126,P1044,2024-06-01,2.0,204.7,Electronics,Gift Card,South America
+TX1740,C153,P1071,2024-03-19,5.0,22.74,Toys,Credit Card,South America
+TX1741,C149,P1047,2024-07-24,2.0,276.8,Clothing,PayPal,Asia
+TX1742,C198,P1014,2024-03-20,5.0,413.82,Home & Kitchen,Debit Card,Australia
+TX1743,C174,P1097,2024-07-05,4.0,396.93,Home & Kitchen,Gift Card,Australia
+TX1744,C189,P1035,2024-02-19,1.0,481.77,Books,Credit Card,Asia
+TX1745,C102,P1073,2024-01-01,1.0,320.58,Toys,Credit Card,South America
+TX1746,C197,P1028,2023-09-14,3.0,445.6,Electronics,PayPal,Asia
+TX1747,C173,P1054,2024-04-05,1.0,283.35,Books,Gift Card,South America
+TX1748,C148,P1071,2023-12-13,4.0,329.03,Books,Credit Card,Australia
+TX1749,C161,P1098,2024-04-27,2.0,230.82,Home & Kitchen,Debit Card,South America
+TX1750,C100,P1079,2024-05-03,4.0,173.72,Electronics,Credit Card,South America
+TX1751,C145,P1078,2023-11-13,1.0,413.53,Books,Debit Card,Australia
+TX1752,C138,P1086,2024-03-29,2.0,409.21,Home & Kitchen,Credit Card,Asia
+TX1753,C196,P1082,2023-11-01,4.0,422.94,Toys,Gift Card,Europe
+TX1754,C149,P1071,2023-08-24,1.0,169.33,Clothing,Gift Card,South America
+TX1755,C153,P1003,2024-03-28,1.0,384.87,Electronics,Gift Card,North America
+TX1756,C168,P1077,2024-06-05,1.0,301.98,Toys,Debit Card,North America
+TX1757,C195,P1084,2024-06-20,3.0,359.75,Home & Kitchen,Gift Card,Asia
+TX1758,C194,P1088,2023-10-04,3.0,0.0,Clothing,Debit Card,South America
+TX1759,C169,P1034,2023-10-19,3.0,229.0,Books,Debit Card,South America
+TX1760,C177,P1003,2024-04-14,2.0,53.23,Toys,Debit Card,Europe
+TX1761,C128,P1023,2024-04-12,4.0,331.16,Books,PayPal,Europe
+TX1762,C162,P1034,2024-07-20,2.0,6.09,Books,Credit Card,North America
+TX1763,C128,P1089,2023-09-07,2.0,180.79,Clothing,Debit Card,North America
+TX1764,C134,P1097,2023-11-17,1.0,318.66,Clothing,Debit Card,North America
+TX1765,C155,P1039,2024-04-21,5.0,400.96,Books,Credit Card,North America
+TX1766,C162,P1043,2023-09-23,5.0,276.11,Books,Gift Card,South America
+TX1767,C103,P1044,2024-04-17,1.0,190.08,Clothing,PayPal,North America
+TX1768,C149,P1000,2024-07-19,5.0,57.63,Home & Kitchen,Credit Card,Europe
+TX1769,C143,P1023,2024-06-24,2.0,448.95,Electronics,Debit Card,South America
+TX1770,C185,P1018,2024-01-16,4.0,248.75,Books,Credit Card,Australia
+TX1771,C186,P1072,2024-02-27,3.0,411.81,Clothing,Debit Card,Asia
+TX1772,C151,P1084,2023-12-17,2.0,372.54,Toys,Gift Card,Europe
+TX1773,C192,P1051,2024-06-24,2.0,207.56,Toys,Credit Card,Asia
+TX1774,C121,P1008,2023-09-01,4.0,130.87,Home & Kitchen,PayPal,Australia
+TX1775,C159,P1018,2024-06-05,5.0,101.98,Home & Kitchen,Credit Card,Australia
+TX1776,C116,P1094,2024-08-12,4.0,64.77,Toys,Debit Card,North America
+TX1777,C179,P1081,2023-11-07,2.0,426.84,Home & Kitchen,Debit Card,North America
+TX1778,C168,P1003,2024-05-26,1.0,111.72,Books,PayPal,Australia
+TX1779,C103,P1011,2024-01-19,1.0,413.15,Clothing,Debit Card,South America
+TX1780,C150,P1095,2023-09-15,2.0,99.34,Electronics,Debit Card,South America
+TX1781,C175,P1067,2023-12-15,1.0,172.28,Clothing,Debit Card,Europe
+TX1782,C172,P1027,2023-12-14,5.0,379.79,Clothing,Credit Card,Asia
+TX1783,C184,P1048,2023-09-16,4.0,28.02,Home & Kitchen,Credit Card,South America
+TX1784,C103,P1053,2024-05-04,3.0,318.45,Electronics,PayPal,South America
+TX1785,C110,P1058,2024-03-20,4.0,337.71,Books,PayPal,Australia
+TX1786,C182,P1043,2024-03-03,3.0,65.99,Toys,Gift Card,Asia
+TX1787,C154,P1020,2024-03-21,2.0,446.42,Books,Debit Card,Australia
+TX1788,C117,P1047,2023-09-19,2.0,231.41,Home & Kitchen,PayPal,Asia
+TX1789,C159,P1039,2024-07-15,3.0,296.71,Toys,Debit Card,Australia
+TX1790,C123,P1092,2024-06-30,1.0,254.58,Books,PayPal,Australia
+TX1791,C106,P1041,2023-09-16,2.0,0.0,Clothing,Gift Card,North America
+TX1792,C133,P1099,2023-10-26,5.0,7.15,Home & Kitchen,PayPal,North America
+TX1793,C148,P1072,2024-04-18,5.0,369.43,Electronics,Credit Card,South America
+TX1794,C141,P1076,2023-11-15,5.0,278.85,Clothing,Debit Card,North America
+TX1795,C127,P1010,2024-07-26,5.0,219.24,Electronics,Credit Card,South America
+TX1796,C158,P1006,2024-05-17,3.0,294.63,Toys,PayPal,South America
+TX1797,C141,P1019,2024-01-14,1.0,462.56,Electronics,PayPal,Asia
+TX1798,C143,P1020,2024-05-16,3.0,391.64,Clothing,Gift Card,South America
+TX1799,C197,P1096,2024-07-27,2.0,455.54,Electronics,Gift Card,South America
+TX1800,C148,P1079,2024-01-24,5.0,347.45,Home & Kitchen,Gift Card,South America
+TX1801,C135,P1006,2023-12-05,5.0,90.96,Home & Kitchen,PayPal,North America
+TX1802,C196,P1086,2024-05-11,5.0,408.55,Clothing,Gift Card,North America
+TX1803,C153,P1010,2034-08-31,2.0,56.26,Books,PayPal,Europe
+TX1804,C132,P1034,2024-07-26,4.0,330.47,Electronics,PayPal,Australia
+TX1805,C110,P1056,2024-08-10,3.0,305.05,Clothing,Debit Card,Asia
+TX1806,C160,P1084,2024-03-15,1.0,164.31,Electronics,Credit Card,Europe
+TX1807,C102,P1054,2023-10-29,2.0,441.29,Clothing,Debit Card,South America
+TX1808,C195,P1062,2023-10-11,4.0,212.24,Electronics,Credit Card,South America
+TX1809,C169,P1077,2024-06-21,4.0,306.45,Books,Credit Card,Europe
+TX1810,C106,P1056,2024-02-25,1.0,347.8,Clothing,PayPal,Asia
+TX1811,C144,P1053,2024-03-22,2.0,127.88,Home & Kitchen,Gift Card,South America
+TX1812,C128,P1034,2023-12-26,4.0,201.95,Books,Gift Card,South America
+TX1813,C183,P1027,2023-09-21,5.0,174.72,Home & Kitchen,Gift Card,North America
+TX1814,C108,P1096,2023-11-10,1.0,150.62,Books,Debit Card,Australia
+TX1815,C199,P1065,2023-11-20,5.0,403.37,Home & Kitchen,Gift Card,South America
+TX1816,C183,P1014,2023-12-06,1.0,73.4,Books,PayPal,Australia
+TX1817,C105,P1044,2024-06-07,3.0,303.25,Electronics,Gift Card,Australia
+TX1818,C196,P1055,2023-11-30,3.0,443.79,Home & Kitchen,Gift Card,Australia
+TX1819,C103,P1014,2023-12-19,2.0,258.59,Electronics,Gift Card,South America
+TX1820,C131,P1036,2024-03-28,4.0,422.32,Clothing,Debit Card,South America
+TX1821,C125,P1086,2024-05-08,5.0,276.16,Electronics,PayPal,Australia
+TX1822,C102,P1086,2024-06-18,4.0,160.39,Home & Kitchen,Gift Card,Europe
+TX1823,C179,P1075,2024-02-27,3.0,369.73,Books,Credit Card,Australia
+TX1824,C119,P1062,2024-05-23,5.0,279.02,Electronics,Debit Card,North America
+TX1825,C130,P1067,2034-08-31,2.0,112.58,Toys,Gift Card,South America
+TX1826,C116,P1085,2023-09-18,4.0,108.81,Books,Gift Card,Asia
+TX1827,C160,P1039,2024-04-05,1.0,358.62,Clothing,Debit Card,South America
+TX1828,C185,P1005,2024-05-11,1.0,344.87,Clothing,Credit Card,Australia
+TX1829,C114,P1028,2024-08-07,5.0,460.99,Home & Kitchen,Credit Card,South America
+TX1830,C172,P1050,2024-02-24,1.0,70.67,Books,Debit Card,Australia
+TX1831,C127,P1076,2024-03-16,1.0,356.65,Electronics,Gift Card,Asia
+TX1832,C159,P1007,2023-10-29,3.0,487.71,Electronics,Debit Card,Asia
+TX1833,C189,P1000,2023-09-04,2.0,93.02,Clothing,Debit Card,Asia
+TX1834,C132,P1026,2024-05-08,1.0,273.53,Books,Debit Card,North America
+TX1835,C198,P1038,2024-05-17,1.0,320.25,Books,Debit Card,North America
+TX1836,C147,P1027,2023-10-07,4.0,356.62,Clothing,Credit Card,Australia
+TX1837,C121,P1098,2023-09-22,5.0,381.58,Electronics,Debit Card,North America
+TX1838,C177,P1017,2024-01-20,3.0,283.33,Clothing,Gift Card,Europe
+TX1839,C177,P1097,2024-01-09,5.0,293.49,Books,Gift Card,Asia
+TX1840,C195,P1032,2023-11-25,4.0,471.62,Electronics,PayPal,Asia
+TX1841,C191,P1037,2024-02-29,4.0,356.51,Toys,PayPal,Australia
+TX1842,C114,P1041,2024-07-01,4.0,338.75,Clothing,Debit Card,North America
+TX1843,C199,P1015,2024-01-22,1.0,447.46,Books,PayPal,Asia
+TX1844,C120,P1000,2023-09-07,5.0,269.28,Books,Debit Card,South America
+TX1845,C139,P1063,2024-06-27,5.0,439.35,Home & Kitchen,Credit Card,North America
+TX1846,C113,P1095,2024-05-12,5.0,214.08,Home & Kitchen,Credit Card,South America
+TX1847,C174,P1055,2024-06-04,2.0,11.32,Clothing,Credit Card,Asia
+TX1848,C103,P1022,2023-12-14,3.0,57.7,Electronics,Credit Card,Asia
+TX1849,C139,P1016,2024-03-02,1.0,193.53,Toys,Gift Card,South America
+TX1850,C173,P1048,2024-04-09,3.0,31.27,Toys,Credit Card,Asia
+TX1851,C186,P1068,2024-08-11,1.0,33.02,Electronics,Credit Card,North America
+TX1852,C148,P1090,2024-04-03,5.0,137.15,Home & Kitchen,Gift Card,Europe
+TX1853,C150,P1029,2024-01-31,2.0,393.84,Books,Debit Card,Europe
+TX1854,C191,P1064,2024-04-16,2.0,491.85,Home & Kitchen,PayPal,Europe
+TX1855,C125,P1071,2023-12-30,5.0,343.28,Clothing,Debit Card,Asia
+TX1856,C109,P1085,2024-03-31,3.0,77.48,Home & Kitchen,Debit Card,Australia
+TX1857,C175,P1045,2024-02-28,4.0,35.71,Electronics,PayPal,North America
+TX1858,C188,P1009,2024-03-13,5.0,393.26,Clothing,Credit Card,North America
+TX1859,C180,P1050,2023-10-21,1.0,105.98,Electronics,Credit Card,Asia
+TX1860,C131,P1094,2023-10-26,3.0,272.88,Clothing,Credit Card,North America
+TX1861,C113,P1005,2024-08-09,4.0,182.55,Books,Credit Card,Asia
+TX1862,C189,P1055,2024-04-03,2.0,229.03,Home & Kitchen,PayPal,Europe
+TX1863,C198,P1002,2023-09-15,1.0,309.97,Electronics,Credit Card,North America
+TX1864,C138,P1058,2024-02-12,2.0,339.39,Clothing,Credit Card,Australia
+TX1865,C187,P1009,2023-08-26,1.0,283.13,Home & Kitchen,Credit Card,Asia
+TX1866,C176,P1040,2024-04-16,4.0,116.03,Toys,PayPal,North America
+TX1867,C115,P1073,2024-07-14,1.0,325.32,Electronics,Gift Card,South America
+TX1868,C172,P1054,2023-09-08,4.0,197.5,Books,PayPal,South America
+TX1869,C105,P1073,2024-06-15,5.0,257.91,Clothing,Credit Card,Australia
+TX1870,C144,P1051,2023-12-20,5.0,399.43,Electronics,PayPal,Australia
+TX1871,C168,P1090,2024-03-10,1.0,349.58,Electronics,Debit Card,South America
+TX1872,C154,P1081,2024-05-25,3.0,348.0,Toys,Debit Card,Asia
+TX1873,C184,P1053,2024-01-20,2.0,28.26,Books,Gift Card,North America
+TX1874,C147,P1037,2023-08-29,1.0,193.88,Toys,Credit Card,South America
+TX1875,C108,P1014,2023-12-01,1.0,211.2,Clothing,Gift Card,Australia
+TX1876,C164,P1051,2023-08-20,2.0,395.12,Home & Kitchen,Debit Card,North America
+TX1877,C182,P1002,2024-03-08,1.0,344.15,Electronics,Gift Card,Asia
+TX1878,C143,P1041,2023-08-27,2.0,483.09,Clothing,Debit Card,South America
+TX1879,C101,P1021,2024-06-15,4.0,31.63,Clothing,Debit Card,Australia
+TX1880,C153,P1079,2023-09-22,3.0,373.12,Books,PayPal,South America
+TX1881,C162,P1058,2024-03-16,5.0,105.53,Electronics,Credit Card,Asia
+TX1882,C113,P1088,2024-02-08,5.0,435.08,Toys,Debit Card,Australia
+TX1883,C155,P1046,2023-10-05,3.0,430.92,Home & Kitchen,Credit Card,North America
+TX1884,C146,P1011,2024-04-23,2.0,224.32,Electronics,Gift Card,South America
+TX1885,C181,P1055,2024-04-24,3.0,116.65,Electronics,Gift Card,North America
+TX1886,C158,P1013,2024-06-07,2.0,318.73,Home & Kitchen,Debit Card,Europe
+TX1887,C999,P1031,2023-12-14,3.0,356.22,Clothing,Credit Card,Asia
+TX1888,C119,P1055,2024-05-28,1.0,187.03,Toys,Debit Card,South America
+TX1889,C155,P1075,2023-12-26,1.0,296.25,Electronics,Debit Card,Australia
+TX1890,C122,P1051,2023-10-09,3.0,370.53,Clothing,PayPal,Asia
+TX1891,C193,P1067,2024-02-05,4.0,102.25,Books,Gift Card,Europe
+TX1892,C166,P1010,2024-01-15,3.0,363.83,Clothing,Credit Card,Australia
+TX1893,C183,P1050,2023-08-21,5.0,100.78,Home & Kitchen,Gift Card,Asia
+TX1894,C134,P1039,2023-11-07,1.0,227.16,Toys,PayPal,Asia
+TX1895,C178,P1095,2023-12-17,3.0,491.81,Home & Kitchen,Gift Card,South America
+TX1896,C168,P1043,2023-11-13,5.0,41.86,Books,PayPal,Europe
+TX1897,C199,P1028,2023-09-09,1.0,481.43,Clothing,Gift Card,South America
+TX1898,C161,P1042,2024-04-25,4.0,368.86,Electronics,Credit Card,North America
+TX1899,C159,P1099,2024-04-10,4.0,64.08,Books,PayPal,Australia
+TX1900,C155,P1021,2034-08-31,5.0,25.11,Home & Kitchen,Gift Card,Europe
+TX1901,C193,P1009,2023-10-14,3.0,143.16,Clothing,PayPal,Asia
+TX1902,C175,P1065,2024-07-04,1.0,135.8,Home & Kitchen,Credit Card,Asia
+TX1903,C134,P1081,2023-11-19,4.0,84.66,Electronics,Gift Card,North America
+TX1904,C141,P1014,2023-12-30,5.0,423.78,Books,Debit Card,Asia
+TX1905,C999,P1067,2023-11-18,2.0,7.79,Books,Credit Card,Australia
+TX1906,C111,P1065,2023-08-20,3.0,235.83,Toys,Credit Card,South America
+TX1907,C135,P1024,2024-02-11,2.0,469.06,Home & Kitchen,Credit Card,Europe
+TX1908,C157,P1099,2024-07-06,3.0,24.77,Toys,Credit Card,Australia
+TX1909,C131,P1044,2023-10-31,1.0,464.67,Books,Debit Card,North America
+TX1910,C196,P1044,2024-06-18,5.0,300.46,Clothing,Gift Card,Australia
+TX1911,C159,P1093,2024-07-14,1.0,387.96,Toys,Credit Card,North America
+TX1912,C172,P1082,2023-11-08,2.0,314.56,Clothing,Gift Card,Australia
+TX1913,C178,P1018,2023-11-30,5.0,422.35,Toys,PayPal,Asia
+TX1914,C185,P1030,2024-05-03,1.0,154.07,Home & Kitchen,Credit Card,Asia
+TX1915,C148,P1013,2023-10-26,1.0,396.0,Home & Kitchen,Credit Card,North America
+TX1916,C143,P1018,2023-11-14,1.0,277.33,Books,Gift Card,Australia
+TX1917,C103,P1032,2024-05-30,2.0,41.08,Home & Kitchen,Debit Card,Australia
+TX1918,C163,P1025,2024-05-22,1.0,0.0,Toys,PayPal,South America
+TX1919,C141,P1022,2024-02-29,4.0,265.07,Toys,Debit Card,South America
+TX1920,C123,P1077,2023-11-22,3.0,478.71,Clothing,Gift Card,Europe
+TX1921,C162,P1019,2024-01-01,4.0,262.7,Electronics,Credit Card,Asia
+TX1922,C127,P1097,2024-06-16,2.0,394.2,Unknown,Gift Card,North America
+TX1923,C145,P1097,2023-09-01,2.0,83.89,Clothing,Gift Card,Asia
+TX1924,C133,P1083,2024-05-01,1.0,273.82,Books,Gift Card,Australia
+TX1925,C143,P1009,2023-10-21,5.0,204.69,Home & Kitchen,Gift Card,Asia
+TX1926,C135,P1022,2023-12-08,4.0,177.95,Home & Kitchen,Credit Card,South America
+TX1927,C176,P1098,2024-06-29,2.0,442.28,Toys,PayPal,Australia
+TX1928,C189,P1080,2023-11-27,3.0,333.35,Home & Kitchen,Credit Card,Asia
+TX1929,C135,P1063,2023-12-30,2.0,168.88,Books,Gift Card,Europe
+TX1930,C171,P1059,2024-07-17,4.0,150.32,Electronics,Gift Card,South America
+TX1931,C101,P1096,2023-12-26,3.0,475.4,Toys,Credit Card,South America
+TX1932,C166,P1072,2024-06-08,3.0,311.05,Books,Debit Card,Asia
+TX1933,C124,P1097,2023-11-26,1.0,240.05,Clothing,Debit Card,Australia
+TX1934,C110,P1074,2024-01-15,5.0,282.86,Electronics,Debit Card,Australia
+TX1935,C130,P1057,2023-12-25,3.0,377.31,Toys,Gift Card,South America
+TX1936,C192,P1087,2023-10-31,1.0,326.4,Home & Kitchen,Credit Card,Australia
+TX1937,C152,P1072,2024-07-16,5.0,61.79,Toys,Credit Card,Europe
+TX1938,C162,P1082,2023-11-02,1.0,176.27,Clothing,Debit Card,North America
+TX1939,C171,P1081,2023-12-22,2.0,123.97,Home & Kitchen,Debit Card,Australia
+TX1940,C197,P1079,2023-09-05,2.0,322.92,Electronics,Credit Card,Europe
+TX1941,C130,P1041,2024-03-10,5.0,459.71,Toys,Gift Card,Australia
+TX1942,C188,P1080,2024-08-03,1.0,125.69,Books,Debit Card,South America
+TX1943,C160,P1040,2024-01-25,4.0,24.74,Clothing,PayPal,Europe
+TX1944,C182,P1019,2024-04-06,1.0,443.4,Toys,PayPal,South America
+TX1945,C191,P1056,2024-08-13,4.0,193.78,Books,Credit Card,Asia
+TX1946,C162,P1008,2024-04-25,3.0,399.12,Toys,Gift Card,Australia
+TX1947,C157,P1060,2023-10-23,3.0,61.12,Clothing,PayPal,Australia
+TX1948,C102,P1056,2024-07-08,3.0,132.01,Toys,Debit Card,South America
+TX1949,C111,P1080,2024-07-22,1.0,363.37,Home & Kitchen,Gift Card,Australia
+TX1950,C137,P1038,2024-01-11,5.0,17.23,Home & Kitchen,Credit Card,North America
+TX1951,C128,P1035,2024-02-20,4.0,260.85,Books,Debit Card,Australia
+TX1952,C151,P1075,2023-08-22,1.0,386.39,Home & Kitchen,Gift Card,Europe
+TX1953,C188,P1007,2024-07-13,3.0,259.58,Electronics,Credit Card,Asia
+TX1954,C131,P1045,2023-11-11,2.0,256.82,Electronics,Gift Card,South America
+TX1955,C999,P1064,2024-07-15,3.0,245.97,Toys,PayPal,Europe
+TX1956,C184,P1009,2024-07-10,5.0,151.73,Electronics,PayPal,Europe
+TX1957,C174,P1039,2023-12-17,3.0,327.51,Unknown,Credit Card,Europe
+TX1958,C147,P1059,2024-07-29,5.0,163.55,Clothing,PayPal,Asia
+TX1959,C160,P1057,2034-08-31,2.0,45.76,Clothing,Credit Card,South America
+TX1960,C170,P1004,2024-01-18,4.0,52.5,Electronics,PayPal,South America
+TX1961,C167,P1007,2024-05-14,3.0,485.96,Clothing,Gift Card,Asia
+TX1962,C144,P1047,2024-06-06,5.0,387.79,Electronics,Gift Card,North America
+TX1963,C154,P1036,2023-09-21,4.0,268.94,Books,Credit Card,Europe
+TX1964,C195,P1009,2023-09-19,2.0,315.33,Clothing,Debit Card,South America
+TX1965,C170,P1082,2024-01-12,5.0,109.34,Electronics,Gift Card,Asia
+TX1966,C142,P1011,2024-02-05,2.0,316.61,Electronics,Gift Card,Asia
+TX1967,C145,P1078,2024-02-01,2.0,110.52,Toys,Credit Card,Europe
+TX1968,C189,P1076,2023-12-29,1.0,344.28,Books,Credit Card,Asia
+TX1969,C158,P1064,2024-02-03,4.0,418.65,Books,Debit Card,Australia
+TX1970,C134,P1049,2024-02-04,1.0,106.76,Toys,Credit Card,Europe
+TX1971,C139,P1059,2024-07-04,2.0,0.0,Toys,Debit Card,South America
+TX1972,C132,P1074,2023-08-31,5.0,439.93,Toys,Credit Card,Europe
+TX1973,C129,P1070,2023-09-11,3.0,371.98,Home & Kitchen,Gift Card,North America
+TX1974,C115,P1094,2023-11-12,1.0,220.44,Electronics,Credit Card,Europe
+TX1975,C192,P1005,2024-06-07,3.0,409.29,Home & Kitchen,PayPal,Europe
+TX1976,C124,P1057,2023-09-15,1.0,40.7,Clothing,Gift Card,North America
+TX1977,C140,P1073,2024-02-18,4.0,344.59,Toys,PayPal,Europe
+TX1978,C115,P1083,2024-06-15,3.0,16.76,Electronics,PayPal,Asia
+TX1979,C195,P1024,2024-05-15,1.0,359.85,Electronics,Credit Card,South America
+TX1980,C168,P1041,2023-11-13,2.0,23.75,Clothing,Credit Card,South America
+TX1981,C197,P1077,2024-01-26,5.0,41.26,Books,PayPal,Australia
+TX1982,C188,P1060,2023-11-18,2.0,93.11,Electronics,Gift Card,South America
+TX1983,C123,P1064,2024-06-10,4.0,129.69,Books,Credit Card,South America
+TX1984,C124,P1019,2024-04-22,4.0,39.87,Electronics,Gift Card,North America
+TX1985,C127,P1007,2024-08-13,1.0,411.7,Home & Kitchen,Credit Card,Europe
+TX1986,C194,P1057,2024-08-03,2.0,0.0,Toys,PayPal,Europe
+TX1987,C161,P1013,2024-03-15,3.0,206.78,Books,PayPal,Asia
+TX1988,C135,P1043,2023-12-21,1.0,228.31,Home & Kitchen,Credit Card,Europe
+TX1989,C192,P1091,2023-09-05,1.0,205.2,Electronics,PayPal,North America
+TX1990,C175,P1010,2023-11-10,2.0,161.62,Toys,Credit Card,Asia
+TX1991,C197,P1064,2024-01-10,5.0,197.8,Home & Kitchen,Debit Card,Asia
+TX1992,C167,P1082,2023-11-16,4.0,63.56,Toys,Credit Card,Australia
+TX1993,C176,P1022,2024-02-02,3.0,7.92,Electronics,Gift Card,Europe
+TX1994,C136,P1005,2024-04-19,4.0,361.54,Electronics,PayPal,North America
+TX1995,C112,P1031,2024-04-10,1.0,36.3,Home & Kitchen,Credit Card,South America
+TX1996,C124,P1090,2023-12-23,5.0,374.25,Electronics,Credit Card,North America
+TX1997,C137,P1056,2024-02-19,1.0,27.53,Clothing,Credit Card,North America
+TX1998,C129,P1056,2024-05-27,5.0,424.88,Toys,Gift Card,North America
+TX1999,C146,P1067,2024-03-26,2.0,182.06,Electronics,PayPal,Asia
