@@ -27,12 +27,16 @@ Gathering Data a Google Sheets using its Authenication Key. The Key is provided 
    - Fact Table: transaction
    - Dimension Table: categories, customers, payments, products, regions
 
+![Star Schema](/pictures/star_schema.png)
+
+
 DBT Architecture:
   - grooming: Cleaning up data types and removing dealing with missing datas
   - staging: data modeling and additional applied bussiness logic
   - production: tables denormalized for reporting.
 
 ### *FLOW DIAGRAM*
+![Prefect Flow](/pictures/dbt.png)
 
 
 
