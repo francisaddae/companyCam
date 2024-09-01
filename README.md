@@ -5,11 +5,12 @@
 ### dependencies 
 
 'pip install ' 
- --- prefect 
- --- prefect-dbt 
- --- sqlalchemy 
- ---- sqlalchemy_clickhouse 
- ---- pandas 
+
+ - prefect 
+- prefect-dbt 
+- sqlalchemy 
+- sqlalchemy_clickhouse 
+- pandas 
  
 ** Extract and Load Data
 Gathering Data a Google Sheets using its Authenication Key. The Key is provided within the 'creds.py' file. Data is loaded and housed in CLICKHOUSE WAREHOUSE. Data transformation is done using DBT. 
