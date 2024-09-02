@@ -43,9 +43,10 @@ DBT Architecture:
 
 ASSUMPTIONS:
 
- Warehouse Instance is Set Up
- Database and Schema are to set up before running the model.
- env variables are to be set to be set up.
+ 1. Warehouse Instance is Set Up
+ 2. Database and Schema are to set up before running the model.
+ 3. env variables are to be set up.
+ 4. schema is to be run before code is implemented.( In production, this will be done using Terrform and make setup)
 
 
  ## Data Visualization
