@@ -35,10 +35,11 @@ DBT Architecture:
   - staging: data modeling and additional applied bussiness logic
   - production: tables denormalized for reporting.
 
+![DBT System](/pictures/dbt.png)
+
+
 ### *FLOW DIAGRAM*
-![Prefect Flow](/pictures/dbt.png)
-
-
+![Prefect Flow](/pictures/flow_process.png)
 
 ASSUMPTIONS:
 
@@ -48,7 +49,6 @@ ASSUMPTIONS:
 
 
  ## Data Visualization
-
 
 <https://public.tableau.com/app/profile/francisaddae/viz/companyCam/Story1>
 
