@@ -1,5 +1,4 @@
 # companyCam
-
 This project is an Analytical Pipeline orchestrated entirely using Prefect Cloud, focusing on an ELT approach to extract, load, and house data efficiently. The process begins by pulling data from multiple sources and storing it in a data warehouse, ensuring seamless integration and scalability.
 
 Next, DBT (Data Build Tool) is applied for data modeling, documentation, and testing, transforming raw data into a structured, analytics-ready format. DBT ensures that data is well-organized, accurate, and aligned with business needs, automating the testing and documentation processes for enhanced reliability.
